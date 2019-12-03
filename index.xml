@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZERO Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 01:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>ZERO Lab</title>
+      <link>https://ZERO-Lab-PKU.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>https://ZERO-Lab-PKU.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>https://ZERO-Lab-PKU.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unified Graph and Low-rank Tensor Learning for Multi-view Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</link>
+      <pubDate>Wed, 12 Feb 2020 01:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_multi-stage_self-supervised_learning_for_graph_convolutional_networks_on_graphs_with_few_labeled_node/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_multi-stage_self-supervised_learning_for_graph_convolutional_networks_on_graphs_with_few_labeled_node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Four papers accepted by AAAI 2020!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/aaai20/</link>
+      <pubDate>Mon, 11 Nov 2019 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/aaai20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICCV Oral</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/iccv19-oral/</link>
+      <pubDate>Fri, 01 Nov 2019 13:35:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/iccv19-oral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PKU_ZERO Team won the Innovative Award in COCO 2019!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/coco19/</link>
+      <pubDate>Sun, 27 Oct 2019 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/coco19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COCO2019</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/coco2019/</link>
+      <pubDate>Sun, 27 Oct 2019 10:10:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/coco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Heteroscedastic Discriminant Analysis under Mixture of Gaussian Distributions </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers accepted by ICCV 2019!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/iccv19/</link>
+      <pubDate>Tue, 23 Jul 2019 07:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/iccv19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</link>
+      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADA-Tucker: Compressing Deep Neural Networks via Adaptive Dimension Adjustment Tucker Decomposition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust 3D Human Pose Estimation from a Single Image or a Video Sequence</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami19_robust_3d_human_pose_estimation_from_a_single_image_or_a_video_sequence/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami19_robust_3d_human_pose_estimation_from_a_single_image_or_a_video_sequence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Convolutional Subspace Clustering Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering by Block Diagonal Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering under Complex Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Augmented Homogeneous Coordinates Matrix Based Projective Mismatch Removal for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip19_the_augmented_homogeneous_coordinates_matrix_based_projective_mismatch_removal_for_partial-duplicate_image_search/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip19_the_augmented_homogeneous_coordinates_matrix_based_projective_mismatch_removal_for_partial-duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Multimodal Cooperative Learning Towards Micro-video Understanding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tip19_neural_multimodal_cooperative_learning_towards_micro-video_understanding/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tip19_neural_multimodal_cooperative_learning_towards_micro-video_understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R^2 Net Recurrent and Recursive Network for Sparse View CT Artifacts Removal</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</link>
+      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Ordinary Differential Equations with Envolutionary Weights</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Adversarial Training on Graph ConvolutionalNetworks in Node Classification </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_virtual_adversarial_training_on_graph_convolutional_networks_in_node_classification/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_virtual_adversarial_training_on_graph_convolutional_networks_in_node_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One papers accepted by TPAMI!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/tpami19/</link>
+      <pubDate>Sat, 25 May 2019 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/tpami19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Linearized ADMM</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-weight and three-weight linear codes based on Weil sums</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ffta19_two-weight_and_three-weight_linear_codes_based_on_weil_sums/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ffta19_two-weight_and_three-weight_linear_codes_based_on_weil_sums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted by ICML 2019!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/icml19/</link>
+      <pubDate>Mon, 22 Apr 2019 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/icml19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted by COLT 2019!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/colt19/</link>
+      <pubDate>Fri, 19 Apr 2019 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/colt19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Comprehensive Correlation Mining for Image Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/iccv19_deep_comprehensive_correlation_mining_for_image_clustering/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/iccv19_deep_comprehensive_correlation_mining_for_image_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent researches on semantic segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/segmentation/</link>
+      <pubDate>Sun, 07 Apr 2019 15:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ZERO-Lab-PKU.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sharp Analysis for Nonconvex SGD Escaping from Saddle Points</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;I love Fashion&#34;</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/ivfashion/</link>
+      <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/ivfashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COCO2018</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/coco2018/</link>
+      <pubDate>Sun, 09 Sep 2018 11:45:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/coco2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Squeeze-and-Excitation Net for Single Image Deraining</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</link>
+      <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating Multi-bit Quantization for Recurrent Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_bilinear_factor_matrix_norm_minimization_for_robust_pca__algorithms_and_applications/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_bilinear_factor_matrix_norm_minimization_for_robust_pca__algorithms_and_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binary Multidimensional Scaling for Hashing</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_binary_multidimensional_scaling_for_hashing/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_binary_multidimensional_scaling_for_hashing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Incoherent Dictionaries via Direct Babel Function Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks with Alternately Updated Clique</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr18_convolutional_neural_networks_with_alternately_updated_clique/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr18_convolutional_neural_networks_with_alternately_updated_clique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demosaicking based on Channel-Correlation Adaptive Dictionary Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictionary Learning with Structured Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Matrix Recovery via Robust Outlier Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_low_rank_matrix_recovery_via_robust_outlier_estimation/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_low_rank_matrix_recovery_via_robust_outlier_estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Applications of Robust PCA in Image and Video Processing</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pieee18_on_the_applications_of_robust_pca_in_image_and_video_processing/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pieee18_on_the_applications_of_robust_pca_in_image_and_video_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization Algorithm Inspired Deep Neural Network Structure Design</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Matrix Factorization by Majorization-Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIDER Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t-Schatten- p Norm for Low-Rank Tensor Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jstsp18_t-schatten-_p_norm_for_low-rank_tensor_recovery/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jstsp18_t-schatten-_p_norm_for_low-rank_tensor_recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Factorization for Low-Rank Tensor Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed-form Solutions of Some Low-Rank Subspace Recovery Models and Their Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/17_closed-form_solutions_of_some_low-rank_subspace_recovery_models_and_their_applications_in_chinese/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/17_closed-form_solutions_of_some_low-rank_subspace_recovery_models_and_their_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Convex Surrogate for the Schatten-p Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Design of High-Sensitivity Color Filter Arrays with Panchromatic Pixels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completing Low-Rank Matrices with Corrupted Samples from Few Coefficients in General Basis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Tree-structured SfM by RANSAC Generalized Procrustes Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/cviu17_efficient_tree-structured_sfm_by_ransac_generalized_procrustes_analysis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/cviu17_efficient_tree-structured_sfm_by_ransac_generalized_procrustes_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factorization for Projective and Metric Reconstruction via Truncated Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Compressive Phase Retrieval under Bounded Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_fast_compressive_phase_retrieval_under_bounded_noise/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_fast_compressive_phase_retrieval_under_bounded_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Learning via Partial Differential Equation with Applications to Face Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Latent Space Learning and Regression for Cross Modal Retrieval</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir17_joint_latent_space_learning_and_regression_for_cross_modal_retrieval/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir17_joint_latent_space_learning_and_regression_for_cross_modal_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Information Guided Graph Construction for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-constrained Linear Coding Based Bi-layer Model for Multi-view Facial Expression Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Color Filter Arrays for Sparse Representation Based Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Asynchronous Stochastic Variance Reduction for Nonconvex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose High Dynamic Range Imaging</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROUTE: Robust Outlier Estimation for Low Rank Matrix Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Shape Interaction Matrix-Based Affine Invariant Mismatch Removal for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_the_shape_interaction_matrix_based_affine_invariant_mismatch_removal_for_partial_duplicated_image_search/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_the_shape_interaction_matrix_based_affine_invariant_mismatch_removal_for_partial_duplicated_image_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation Invariant Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr16_transformation_invariant_subspace_clustering/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr16_transformation_invariant_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provable Accelerated Gradient Method for Nonconvex Low Rank Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Sparse Spectral Clustering: Single-view to Multi-view</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view Common Space Learning for Emotion Recognition in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/eccv16_relay_backpropagation_for_effective_learning_of_deep_convolutional_neural_networks/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/eccv16_relay_backpropagation_for_effective_learning_of_deep_convolutional_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Kernel Estimation with Outliers Handling for Image Deblurring</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering Based Tag Sharing for Inductive Tag Matrix Refinement with Complex Errors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR and Sparse Coding Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://ZERO-Lab-PKU.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>https://ZERO-Lab-PKU.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Review on Low-Rank Models in Signal and Data Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/bdia16_a_review_on_low-rank_models_in_signal_and_data_analysis/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/bdia16_a_review_on_low-rank_models_in_signal_and_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Design of Color Filter Arrays in the Frequency Domain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Diffuse: A New Perspective to Design PDEs for Visual Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Nonsmooth Low-Rank Minimization via Iteratively Reweighted Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Semi-Supervised Representation Towards a Unified Optimization Framework for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv15_learning_semi_supervised_representation_towards_a_unified_optimization_framework_for_semi_supervised_learning/</link>
+      <pubDate>Sun, 13 Dec 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv15_learning_semi_supervised_representation_towards_a_unified_optimization_framework_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Models in Signal and Data Processing: Theories, Algorithms, and Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Low-Rank Representation for Graph Construction from Nonlinear Manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Graph Regularized Latent Low-rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Alternating Time-Splitting Approach for Learning Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_a_fast_alternating_time-splitting_approach_for_learning_partial_differential_equations/</link>
+      <pubDate>Thu, 20 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_a_fast_alternating_time-splitting_approach_for_learning_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Multidimensional Ellipsoid-Specific Fitting by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence of Learning-based Iterative Methods for Nonconvex Inverse Problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian Regularized Low-Rank Representation and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Proximal Gradient Methods for Nonconvex Programming</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Tag Completion and Refinement by Subspace Clustering and Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Models Fusion for Emotion Recognition in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi15_multiple_models_fusion_for_emotion_recognition_in_the_wild/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi15_multiple_models_fusion_for_emotion_recognition_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining Step Sizes in Geometric Optimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/isit15_determining_step_size_in_geometric_optimization_algorithms/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/isit15_determining_step_size_in_geometric_optimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Low Rank Based Discriminative Feature Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Hybrid Method for Text Detection in Natural Scenes by Learning-based Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sharing for Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcai15_adaptive_sharing_for_image_classification/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcai15_adaptive_sharing_for_image_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering by Mixture of Gaussian Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_subspace_clustering_by_mixture_gaussian_regression/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_subspace_clustering_by_mixture_gaussian_regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Some Low Rank Subspace Recovery Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Nuclear Norm Regularized Regression for Face Recognition with Occlusion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/pr15_robust_low-rank_regularized_regression_for_face_recognition_with_occlusion/</link>
+      <pubDate>Wed, 15 Apr 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/pr15_robust_low-rank_regularized_regression_for_face_recognition_with_occlusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Singular Value Thresholding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squared Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Global Geometric Consistency for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Partial Differential Equation Learning for Visual Saliency Detection</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Nonconvex Nonsmooth Low-Rank Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimation of 3D Human Poses from Single Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_estimation_of_3d_human_posed_from_single_images/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_estimation_of_3d_human_posed_from_single_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Low-Rank Regularized Regression for Face Recognition with Occlusion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr-w14_roubst_subspace_segamentation_with_block_diagonal_prior/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr-w14_roubst_subspace_segamentation_with_block_diagonal_prior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Representation Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_lowrank_regularized_regression_for_face_recogonition_with_occlusion/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_lowrank_regularized_regression_for_face_recogonition_with_occlusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Representation Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_smooth_representation_clustering/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_smooth_representation_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Markov Random Walks for Robust Subspace Clustering and Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Latent Low Rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regularized Approach for Geodesic Based Semi-Supervised Multi-Manifold Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear time Principal Component Pursuit and its extensions using l1 Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation Adaptive Subspace Segmentation by Trace Lasso</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correntropy Induced L2 Graph for Robust Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Minimization: Theories, Algorithms, and Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/13_rank_minimization_theories_algorithms_and_applications_in_chinese/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/13_rank_minimization_theories_algorithms_and_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Counterexample for The Validaity of Using Nuclear Norm as A Comvex Surrogate of Rank</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transform Invariant Text Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rectification of Optical Characters as Transform Invariant Low-rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty and Warm Starts for Fast Solving Transform Invariant Low-Rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</link>
+      <pubDate>Thu, 24 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized Semi-Supervised Latent Dirichlet Allocation for visual concept learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geodesic based semi-supervised multi-manifold feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Thumbnail Generation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of typical ℓp minimization algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</link>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bases sorting: Generalizing the concept of frequency for over-complete dictionaries</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-Rank Representation for Unsupervised Visual Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Low Rank and Sparse Graph for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new discriminant subspace analysis approach for multi-class problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast gradient vector flow computation based on augmented Lagrangian method</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/prl13_fast_gradient_vector_flow_computation_based_on_augmented_lagrangian_method/</link>
+      <pubDate>Fri, 09 Mar 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/prl13_fast_gradient_vector_flow_computation_based_on_augmented_lagrangian_method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Accelerated Proximal Gradient Approach for Total Variation-Based Image Restoration</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward designing intelligent PDEs for computer vision An optimal control approach</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</link>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some Software Packages for Partial SVD Computation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_some_software_packages_for_partial_svd_computation/</link>
+      <pubDate>Fri, 19 Aug 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_some_software_packages_for_partial_svd_computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Improvement of Low Rank Representation for Subspace segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Pixels for Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Geometric Method for Optimal Design of Color Filter Arrays</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Frequency Structure Matrix: A Representation of Color Filter Arrays</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijist11_the_frequency_structure_matrix_a_representation_of_color_filter_arrays/</link>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijist11_the_frequency_structure_matrix_a_representation_of_color_filter_arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Block Lanczos with Warm Start Technique for Accelerating Nuclear Norm Minimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</link>
+      <pubDate>Sun, 19 Dec 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Learning Lorentzian Metric Tensor and Its Extensions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from Arbitrary View Facial Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning PDEs for Image Restoration via Optimal Control</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Subspace Segmentation by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Object Segmentation with a Hybrid Graph Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rank-One Update Algorithm for Fast Solving Kernel Foley-Sammon Optimal Discriminant Vectors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Multiscale Competitive Code via Sparse Representation for Palmprint Verification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr10_the_multiscale_competitive_code_via_sparse_representation_for_palmprint_verification/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr10_the_multiscale_competitive_code_via_sparse_representation_for_palmprint_verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Structure Based Analyses on Compressive Sensing for Binary Sparse Sources</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc10_tree_structure_based_analyses_on_compressive_sensing_for_binary_sparse_sources/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc10_tree_structure_based_analyses_on_compressive_sensing_for_binary_sparse_sources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Recovering a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast, Automatic and Fine-Grained Tampered JPEG Images Detection via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-output regression on the output manifold</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Augmented Lagrange Multiplier Method for Exact Recovery of Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</link>
+      <pubDate>Mon, 19 Oct 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor linear Laplacian discrimination (TLLD) for feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Partial Differential Equations for Image Processing by Combining Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Convex Optimization Algorithms for Exact Recovery of a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Image Superresolution Algorithms (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_learning-based_image_superresolution_algorithms_in_chinese/</link>
+      <pubDate>Sun, 19 Jul 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_learning-based_image_superresolution_algorithms_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature Sample Synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</link>
+      <pubDate>Sun, 19 Jul 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radon Representation-Based Feature Descriptor for Texture Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Expression Recognition from Non-frontal Face Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv09_a_novel_approach_to_expression_recognition_from_non-frontal_face_images/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv09_a_novel_approach_to_expression_recognition_from_non-frontal_face_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis on Rate-distortion Performance of Compressive Sensing for Binary Sparse Source</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc09_analysis_on_rate-distortion_performance_of_compressive_sensing_for_binary_sparse_source/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc09_analysis_on_rate-distortion_performance_of_compressive_sensing_for_binary_sparse_source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorentzian Discriminant Projection and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Multi-class Spatio-Spectral Filters via Bayes Error Estimation for EEG Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined Exponential Filter with Applications to Image Restoration and Interpolation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Image Preview</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: A Design Methodology</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: Representation and Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Approximate Local Shading</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Rendering of Heterogeneous Translucent Materials Using the Diffusion Equation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Semi-Riemannian Spaces</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Sun, 19 Aug 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style-preserving English handwriting synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Resolution Animated Scenes from Stills</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tvcg07_high_resolution_animated_scenes_from_stills/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tvcg07_high_resolution_animated_scenes_from_stills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Graph Model for Unsupervised Object Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length (MICL)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Distance for Data Perception</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian PCA and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Laplacian Discrimination for Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Pixels: Super-Resolution in the Detector Layout Domain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_penrose_pixels__super-resolution_in_the_detector_layout_domain/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_penrose_pixels__super-resolution_in_the_detector_layout_domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Detection in Online Ink Notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule-based cleanup of on-line English ink notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Comments on Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored JPEG Images via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Order Approximation for Texture Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored Images Using Camera Response Normality and Consistency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Line Signature Verification With Two-Stage Statistical Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Polynomial Filters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-filtering 2D Polygons without Clipping</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Geometric Analysis of Light Field Rendering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and rectification of light fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-line Signature Verification Incorporating the Prior Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature verification using integrated classifiers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and Rectification of Light Fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Fundamental Limits of Reconstruction-Based Super-resolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Number of Samples Needed in Light Field Rendering with Constant-depth Assumption</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Anisotropic Diffusion PDE for Noise Reduction and Thin Edge Preservation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iciap99_an_anisotropic_diffusion_pde_for_noise_reduction_and_thin_edge_preservation/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iciap99_an_anisotropic_diffusion_pde_for_noise_reduction_and_thin_edge_preservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained Optimal Control of Continuous Casting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/thermec97_constrained_optimal_control_of_continuous_casting/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/thermec97_constrained_optimal_control_of_continuous_casting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Analysis of the Bulging of Continuously Cast Slabs</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/baichenyan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/baichenyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/chengfeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/chengfeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/chenqi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/chenqi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/chenyong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/chenyong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/dongyiming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/dongyiming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/fangcong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/fangcong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/gengzhengyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/gengzhengyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/helingshen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/helingshen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/houyuqing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/houyuqing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/huangjianfeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/huangjianfeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/huangyameng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/huangyameng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/jiangfeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/jiangfeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/konghao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/konghao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/kongzhiheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/kongzhiheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lifengcai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lifengcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lihongyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lihongyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lihuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lihuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lijia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lijia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/limingjie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/limingjie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/linyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/linyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/linzhouchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/linzhouchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lixia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lixia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lucanyi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lucanyi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/lushanzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/lushanzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/shenli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/shenli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/shentiancheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/shentiancheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/sunke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/sunke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/wangqiuhao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/wangqiuhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/wangshiping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/wangshiping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/wangyijia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/wangyijia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/weifangyin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/weifangyin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/wujianlong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/wujianlong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/xiexingyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/xiexingyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/xuchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/xuchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/xudapeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/xudapeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yangyibo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yangyibo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yanhan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yanhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yaoxueqian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yaoxueqian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yinming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yinming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhanggeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhanggeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhanghongyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhanghongyang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhaozhenyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhaozhenyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhongzhisheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhongzhisheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhoupan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhoupan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/zhouyou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhouyou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aperiodic pixel layout for super-resolution (Invited Paper)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/spie10_aperiodic_pixel_layout_for_super-resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/spie10_aperiodic_pixel_layout_for_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

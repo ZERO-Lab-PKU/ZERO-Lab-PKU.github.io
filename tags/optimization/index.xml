@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/optimization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Linearized ADMM</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharp Analysis for Nonconvex SGD Escaping from Saddle Points</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating Multi-bit Quantization for Recurrent Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of Incoherent Dictionaries via Direct Babel Function Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provable Accelerated Gradient Method for Nonconvex Low Rank Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Design of Color Filter Arrays in the Frequency Domain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Graph Regularized Latent Low-rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Proximal Gradient Methods for Nonconvex Programming</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Singular Value Thresholding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

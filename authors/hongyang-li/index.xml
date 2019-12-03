@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongyang Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/hongyang-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hongyang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongyang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Hongyang Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/hongyang-li/</link>
+    </image>
+    
+    <item>
+      <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

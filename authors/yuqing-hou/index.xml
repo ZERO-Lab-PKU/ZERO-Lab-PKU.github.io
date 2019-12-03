@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuqing Hou | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yuqing-hou/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yuqing-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuqing Hou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yuqing Hou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yuqing-hou/</link>
+    </image>
+    
+    <item>
+      <title>Subspace Clustering Based Tag Sharing for Inductive Tag Matrix Refinement with Complex Errors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Tag Completion and Refinement by Subspace Clustering and Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

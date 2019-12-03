@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear discriminant analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/linear-discriminant-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/linear-discriminant-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear discriminant analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Linear discriminant analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/linear-discriminant-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Laplacian Discrimination for Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

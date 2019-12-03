@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liansheng Zhuang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/liansheng-zhuang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/liansheng-zhuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liansheng Zhuang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Liansheng Zhuang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/liansheng-zhuang/</link>
+    </image>
+    
+    <item>
+      <title>Label Information Guided Graph Construction for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Low-Rank Representation for Graph Construction from Nonlinear Manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regularized Semi-Supervised Latent Dirichlet Allocation for visual concept learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Low Rank and Sparse Graph for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

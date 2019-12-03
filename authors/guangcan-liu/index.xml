@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guangcan Liu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/guangcan-liu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/guangcan-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guangcan Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Guangcan Liu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/guangcan-liu/</link>
+    </image>
+    
+    <item>
+      <title>Differentiable Linearized ADMM</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Subspace Segmentation by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Object Segmentation with a Hybrid Graph Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-output regression on the output manifold</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radon Representation-Based Feature Descriptor for Texture Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Graph Model for Unsupervised Object Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

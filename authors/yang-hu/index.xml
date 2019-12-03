@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Hu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yang-hu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yang-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 14:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yang Hu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yang-hu/</link>
+    </image>
+    
+    <item>
+      <title>&#34;I love Fashion&#34;</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/ivfashion/</link>
+      <pubDate>Fri, 25 Jan 2019 14:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/ivfashion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

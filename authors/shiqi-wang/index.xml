@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiqi Wang, | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/shiqi-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/shiqi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiqi Wang,</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Shiqi Wang,</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/shiqi-wang/</link>
+    </image>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

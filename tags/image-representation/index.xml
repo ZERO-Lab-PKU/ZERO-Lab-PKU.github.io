@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image representation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/image-representation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/image-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image representation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Image representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/image-representation/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust PCA | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/robust-pca/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/robust-pca/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust PCA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Robust PCA</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/robust-pca/</link>
+    </image>
+    
+    <item>
+      <title>Relations among Some Low Rank Subspace Recovery Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Latent Low Rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

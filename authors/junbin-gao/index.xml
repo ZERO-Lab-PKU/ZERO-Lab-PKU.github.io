@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junbin Gao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/junbin-gao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/junbin-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junbin Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Junbin Gao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/junbin-gao/</link>
+    </image>
+    
+    <item>
+      <title>Tensor LRR and Sparse Coding Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Graph Regularized Latent Low-rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_dual_graph_regularized_latent_low-rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian Regularized Low-Rank Representation and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Some Low Rank Subspace Recovery Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Latent Low Rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear time Principal Component Pursuit and its extensions using l1 Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

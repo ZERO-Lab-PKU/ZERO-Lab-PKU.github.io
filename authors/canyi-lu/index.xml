@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canyi Lu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/canyi-lu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/canyi-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Canyi Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Canyi Lu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/canyi-lu/</link>
+    </image>
+    
+    <item>
+      <title>Subspace Clustering by Block Diagonal Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Factorization for Low-Rank Tensor Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convex Sparse Spectral Clustering: Single-view to Multi-view</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Nonsmooth Low-Rank Minimization via Iteratively Reweighted Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Singular Value Thresholding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squared Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Nonconvex Nonsmooth Low-Rank Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation Adaptive Subspace Segmentation by Trace Lasso</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correntropy Induced L2 Graph for Robust Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

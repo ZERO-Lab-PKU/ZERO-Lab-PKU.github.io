@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiashi Feng | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jiashi-feng/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jiashi-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiashi Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jiashi Feng</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jiashi-feng/</link>
+    </image>
+    
+    <item>
+      <title>Subspace Clustering by Block Diagonal Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation Adaptive Subspace Segmentation by Trace Lasso</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

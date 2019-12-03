@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yisong Chen | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yisong-chen/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yisong-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yisong Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yisong Chen</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yisong-chen/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Tree-structured SfM by RANSAC Generalized Procrustes Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/cviu17_efficient_tree-structured_sfm_by_ransac_generalized_procrustes_analysis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/cviu17_efficient_tree-structured_sfm_by_ransac_generalized_procrustes_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

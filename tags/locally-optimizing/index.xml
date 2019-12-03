@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>locally optimizing | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/locally-optimizing/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/locally-optimizing/index.xml" rel="self" type="application/rss+xml" />
+    <description>locally optimizing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>locally optimizing</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/locally-optimizing/</link>
+    </image>
+    
+    <item>
+      <title>Laplacian PCA and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

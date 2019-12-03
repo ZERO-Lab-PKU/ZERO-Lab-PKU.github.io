@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iterative algorithms | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/iterative-algorithms/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/iterative-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>iterative algorithms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>iterative algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/iterative-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>Fast Algorithms for Recovering a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Lin | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/tong-lin/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tong-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Tong Lin</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/tong-lin/</link>
+    </image>
+    
+    <item>
+      <title>Factorization for Projective and Metric Reconstruction via Truncated Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined Exponential Filter with Applications to Image Restoration and Interpolation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

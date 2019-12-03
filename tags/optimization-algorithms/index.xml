@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization Algorithms | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/optimization-algorithms/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/optimization-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization Algorithms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Optimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/optimization-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>Optimization Algorithm Inspired Deep Neural Network Structure Design</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

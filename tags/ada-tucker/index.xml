@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADA-Tucker | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/ada-tucker/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/ada-tucker/index.xml" rel="self" type="application/rss+xml" />
+    <description>ADA-Tucker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>ADA-Tucker</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/ada-tucker/</link>
+    </image>
+    
+    <item>
+      <title>ADA-Tucker: Compressing Deep Neural Networks via Adaptive Dimension Adjustment Tucker Decomposition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

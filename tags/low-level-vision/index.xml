@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-level vision | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/low-level-vision/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/low-level-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-level vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2019 21:02:38 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Low-level vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/low-level-vision/</link>
+    </image>
+    
+    <item>
+      <title>R^2 Net Recurrent and Recursive Network for Sparse View CT Artifacts Removal</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</link>
+      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Squeeze-and-Excitation Net for Single Image Deraining</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</link>
+      <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingwen Yin | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jingwen-yin/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jingwen-yin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingwen Yin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jingwen Yin</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jingwen-yin/</link>
+    </image>
+    
+    <item>
+      <title>Label Information Guided Graph Construction for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

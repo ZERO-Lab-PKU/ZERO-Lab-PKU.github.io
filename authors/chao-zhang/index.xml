@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Zhang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/chao-zhang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/chao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Chao Zhang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/chao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>ADA-Tucker: Compressing Deep Neural Networks via Adaptive Dimension Adjustment Tucker Decomposition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/nn19_ada-tucker__compressing_deep_neural_networks_via_adaptive_dimension_adjustment_tucker_decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictionary Learning with Structured Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Factorization for Low-Rank Tensor Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completing Low-Rank Matrices with Corrupted Samples from Few Coefficients in General Basis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Low Rank Based Discriminative Feature Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Some Low Rank Subspace Recovery Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Latent Low Rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Counterexample for The Validaity of Using Nuclear Norm as A Comvex Surrogate of Rank</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of typical ℓp minimization algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</link>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

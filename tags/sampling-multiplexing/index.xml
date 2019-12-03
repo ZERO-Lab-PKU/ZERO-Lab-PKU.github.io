@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sampling, multiplexing | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/sampling-multiplexing/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/sampling-multiplexing/index.xml" rel="self" type="application/rss+xml" />
+    <description>sampling, multiplexing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>sampling, multiplexing</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/sampling-multiplexing/</link>
+    </image>
+    
+    <item>
+      <title>A Geometric Method for Optimal Design of Color Filter Arrays</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

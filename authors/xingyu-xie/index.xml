@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingyu Xie | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/xingyu-xie/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xingyu-xie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingyu Xie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 01:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Xingyu Xie</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xingyu-xie/</link>
+    </image>
+    
+    <item>
+      <title>Unified Graph and Low-rank Tensor Learning for Multi-view Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</link>
+      <pubDate>Wed, 12 Feb 2020 01:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Ordinary Differential Equations with Envolutionary Weights</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiable Linearized ADMM</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/icml19_diffenrentiable_linearized_admm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t-Schatten- p Norm for Low-Rank Tensor Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jstsp18_t-schatten-_p_norm_for_low-rank_tensor_recovery/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jstsp18_t-schatten-_p_norm_for_low-rank_tensor_recovery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

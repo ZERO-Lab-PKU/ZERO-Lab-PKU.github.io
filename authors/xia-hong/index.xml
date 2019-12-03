@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xia Hong | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/xia-hong/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xia-hong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xia Hong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Xia Hong</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xia-hong/</link>
+    </image>
+    
+    <item>
+      <title>Tensor LRR and Sparse Coding Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

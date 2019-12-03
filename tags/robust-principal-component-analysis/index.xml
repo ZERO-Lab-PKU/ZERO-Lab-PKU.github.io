@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Principal Component Analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/robust-principal-component-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/robust-principal-component-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust Principal Component Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Robust Principal Component Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/robust-principal-component-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_bilinear_factor_matrix_norm_minimization_for_robust_pca__algorithms_and_applications/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_bilinear_factor_matrix_norm_minimization_for_robust_pca__algorithms_and_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Applications of Robust PCA in Image and Video Processing</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pieee18_on_the_applications_of_robust_pca_in_image_and_video_processing/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pieee18_on_the_applications_of_robust_pca_in_image_and_video_processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear time Principal Component Pursuit and its extensions using l1 Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cong Fang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/cong-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cong Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Cong Fang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
+    </image>
+    
+    <item>
+      <title>Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharp Analysis for Nonconvex SGD Escaping from Saddle Points</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIDER Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Learning via Partial Differential Equation with Applications to Face Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Asynchronous Stochastic Variance Reduction for Nonconvex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Hybrid Method for Text Detection in Natural Scenes by Learning-based Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

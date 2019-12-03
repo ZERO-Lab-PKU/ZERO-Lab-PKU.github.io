@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Feng | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/wei-feng/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/wei-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Feng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Oct 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Wei Feng</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/wei-feng/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual Thumbnail Generation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Image Preview</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

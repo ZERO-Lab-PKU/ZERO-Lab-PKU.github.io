@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image restoration | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/image-restoration/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/image-restoration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image restoration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Image restoration</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/image-restoration/</link>
+    </image>
+    
+    <item>
+      <title>A Generalized Accelerated Proximal Gradient Approach for Total Variation-Based Image Restoration</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning PDEs for Image Restoration via Optimal Control</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined Exponential Filter with Applications to Image Restoration and Interpolation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

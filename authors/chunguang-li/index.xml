@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chunguang Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/chunguang-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/chunguang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chunguang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Sep 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Chunguang Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/chunguang-li/</link>
+    </image>
+    
+    <item>
+      <title>Bases sorting: Generalizing the concept of frequency for over-complete dictionaries</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

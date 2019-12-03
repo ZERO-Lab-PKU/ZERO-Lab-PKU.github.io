@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image-based relighting | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/image-based-relighting/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/image-based-relighting/index.xml" rel="self" type="application/rss+xml" />
+    <description>image-based relighting</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>image-based relighting</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/image-based-relighting/</link>
+    </image>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

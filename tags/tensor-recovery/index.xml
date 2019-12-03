@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensor Recovery | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/tensor-recovery/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/tensor-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tensor Recovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Tensor Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/tensor-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai18_exact-low_tubal_rank_tensor_recovery_from_gaussian_measurements/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

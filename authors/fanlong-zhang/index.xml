@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fanlong Zhang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/fanlong-zhang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/fanlong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fanlong Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Fanlong Zhang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/fanlong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Robust Low-Rank Regularized Regression for Face Recognition with Occlusion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr-w14_roubst_subspace_segamentation_with_block_diagonal_prior/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr-w14_roubst_subspace_segamentation_with_block_diagonal_prior/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trace Segamentation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/trace-segamentation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/trace-segamentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trace Segamentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Trace Segamentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/trace-segamentation/</link>
+    </image>
+    
+    <item>
+      <title>Correlation Adaptive Subspace Segmentation by Trace Lasso</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correlation_adaptive_subspace_segmentation_by_trace_lasso/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

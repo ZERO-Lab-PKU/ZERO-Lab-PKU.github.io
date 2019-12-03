@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feature extraction | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/feature-extraction/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/feature-extraction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feature extraction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/feature-extraction/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regularized Approach for Geodesic Based Semi-Supervised Multi-Manifold Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geodesic based semi-supervised multi-manifold feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new discriminant subspace analysis approach for multi-class problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Learning Lorentzian Metric Tensor and Its Extensions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Laplacian Discrimination for Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

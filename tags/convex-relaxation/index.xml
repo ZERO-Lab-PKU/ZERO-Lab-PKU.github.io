@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convex Relaxation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/convex-relaxation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/convex-relaxation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convex Relaxation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Convex Relaxation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/convex-relaxation/</link>
+    </image>
+    
+    <item>
+      <title>Convex Sparse Spectral Clustering: Single-view to Multi-view</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip16_convex_sparse_spectral_clustering_single-view_to_multi-view/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

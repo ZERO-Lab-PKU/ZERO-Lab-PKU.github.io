@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PDEs | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/pdes/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/pdes/index.xml" rel="self" type="application/rss+xml" />
+    <description>PDEs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>PDEs</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/pdes/</link>
+    </image>
+    
+    <item>
+      <title>Toward designing intelligent PDEs for computer vision An optimal control approach</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</link>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

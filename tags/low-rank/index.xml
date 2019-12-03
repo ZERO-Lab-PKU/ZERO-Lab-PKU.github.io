@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low Rank | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/low-rank/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/low-rank/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low Rank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Low Rank</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/low-rank/</link>
+    </image>
+    
+    <item>
+      <title>ROUTE: Robust Outlier Estimation for Low Rank Matrix Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provable Accelerated Gradient Method for Nonconvex Low Rank Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Singular Value Thresholding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_generalized_singular_value_thresholding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Global Geometric Consistency for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</link>
+      <pubDate>Sun, 27 Jul 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai14_proximal_iteratively_reweighted_algorithm_with_multiple_splitting_for_nonconvex_sparsity_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Nonconvex Nonsmooth Low-Rank Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_generalized_nonconvex_nonsmooth_low_rank_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Counterexample for The Validaity of Using Nuclear Norm as A Comvex Surrogate of Rank</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ecml13_a_counterexample_for_the_validity_of_using_nuclear_norm_as_a_convex_surrogate_of_rank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rectification of Optical Characters as Transform Invariant Low-rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Low Rank and Sparse Graph for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

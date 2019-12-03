@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weil sums | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/weil-sums/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/weil-sums/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weil sums</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Weil sums</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/weil-sums/</link>
+    </image>
+    
+    <item>
+      <title>Two-weight and three-weight linear codes based on Weil sums</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ffta19_two-weight_and_three-weight_linear_codes_based_on_weil_sums/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ffta19_two-weight_and_three-weight_linear_codes_based_on_weil_sums/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

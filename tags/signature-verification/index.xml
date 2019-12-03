@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signature verification | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/signature-verification/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/signature-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>signature verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>signature verification</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/signature-verification/</link>
+    </image>
+    
+    <item>
+      <title>Signature verification using integrated classifiers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

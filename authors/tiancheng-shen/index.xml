@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiancheng Shen | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tiancheng Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Tiancheng Shen</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</link>
+    </image>
+    
+    <item>
+      <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R^2 Net Recurrent and Recursive Network for Sparse View CT Artifacts Removal</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</link>
+      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks with Alternately Updated Clique</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr18_convolutional_neural_networks_with_alternately_updated_clique/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr18_convolutional_neural_networks_with_alternately_updated_clique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

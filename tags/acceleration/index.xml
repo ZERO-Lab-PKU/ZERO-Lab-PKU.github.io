@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acceleration | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/acceleration/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/acceleration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acceleration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jul 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Acceleration</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/acceleration/</link>
+    </image>
+    
+    <item>
+      <title>Accelerated Proximal Gradient Methods for Nonconvex Programming</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squared Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

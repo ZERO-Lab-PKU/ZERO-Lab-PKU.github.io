@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warm start | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/warm-start/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/warm-start/index.xml" rel="self" type="application/rss+xml" />
+    <description>Warm start</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Warm start</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/warm-start/</link>
+    </image>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty and Warm Starts for Fast Solving Transform Invariant Low-Rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</link>
+      <pubDate>Thu, 24 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haoyuan Gao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/haoyuan-gao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/haoyuan-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haoyuan Gao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jan 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Haoyuan Gao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/haoyuan-gao/</link>
+    </image>
+    
+    <item>
+      <title>Regularized Semi-Supervised Latent Dirichlet Allocation for visual concept learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Low Rank and Sparse Graph for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

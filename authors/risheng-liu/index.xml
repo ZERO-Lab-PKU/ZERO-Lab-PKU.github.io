@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Risheng Liu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/risheng-liu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/risheng-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Risheng Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Risheng Liu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/risheng-liu/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Diffuse: A New Perspective to Design PDEs for Visual Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence of Learning-based Iterative Methods for Nonconvex Inverse Problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Partial Differential Equation Learning for Visual Saliency Detection</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Markov Random Walks for Robust Subspace Clustering and Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear time Principal Component Pursuit and its extensions using l1 Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-Rank Representation for Unsupervised Visual Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward designing intelligent PDEs for computer vision An optimal control approach</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</link>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Learning Lorentzian Metric Tensor and Its Extensions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning PDEs for Image Restoration via Optimal Control</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorentzian Discriminant Projection and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

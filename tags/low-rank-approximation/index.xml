@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low Rank Approximation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/low-rank-approximation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/low-rank-approximation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low Rank Approximation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Low Rank Approximation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/low-rank-approximation/</link>
+    </image>
+    
+    <item>
+      <title>Factorization for Projective and Metric Reconstruction via Truncated Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

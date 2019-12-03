@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>convex optimization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/convex-optimization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/convex-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>convex optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>convex optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/convex-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast gradient vector flow computation based on augmented Lagrangian method</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/prl13_fast_gradient_vector_flow_computation_based_on_augmented_lagrangian_method/</link>
+      <pubDate>Fri, 09 Mar 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/prl13_fast_gradient_vector_flow_computation_based_on_augmented_lagrangian_method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Accelerated Proximal Gradient Approach for Total Variation-Based Image Restoration</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_generalized_accelerated_proximal_gradient_approach_for_total_variation-based_image_restoration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

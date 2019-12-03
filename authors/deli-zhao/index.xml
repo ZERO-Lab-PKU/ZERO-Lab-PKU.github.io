@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deli Zhao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/deli-zhao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/deli-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deli Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jun 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Deli Zhao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/deli-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Determining Step Sizes in Geometric Optimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/isit15_determining_step_size_in_geometric_optimization_algorithms/</link>
+      <pubDate>Sun, 14 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/isit15_determining_step_size_in_geometric_optimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Semi-Riemannian Spaces</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Distance for Data Perception</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian PCA and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Laplacian Discrimination for Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

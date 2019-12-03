@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liqiang Nie | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/liqiang-nie/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/liqiang-nie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liqiang Nie</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 01:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Liqiang Nie</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/liqiang-nie/</link>
+    </image>
+    
+    <item>
+      <title>Unified Graph and Low-rank Tensor Learning for Multi-view Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</link>
+      <pubDate>Wed, 12 Feb 2020 01:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Multimodal Cooperative Learning Towards Micro-video Understanding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tip19_neural_multimodal_cooperative_learning_towards_micro-video_understanding/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tip19_neural_multimodal_cooperative_learning_towards_micro-video_understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

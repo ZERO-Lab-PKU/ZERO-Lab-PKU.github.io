@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regional Covariance Matrix | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/regional-covariance-matrix/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/regional-covariance-matrix/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regional Covariance Matrix</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Sep 2010 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Regional Covariance Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/regional-covariance-matrix/</link>
+    </image>
+    
+    <item>
+      <title>Emotion Recognition from Arbitrary View Facial Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appearance modeling and rendering | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/appearance-modeling-and-rendering/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/appearance-modeling-and-rendering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Appearance modeling and rendering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2008 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Appearance modeling and rendering</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/appearance-modeling-and-rendering/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Rendering of Heterogeneous Translucent Materials Using the Diffusion Equation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

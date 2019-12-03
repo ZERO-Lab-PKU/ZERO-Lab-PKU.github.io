@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhanxing Zhu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhanxing Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhanxing Zhu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_multi-stage_self-supervised_learning_for_graph_convolutional_networks_on_graphs_with_few_labeled_node/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_multi-stage_self-supervised_learning_for_graph_convolutional_networks_on_graphs_with_few_labeled_node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Adversarial Training on Graph ConvolutionalNetworks in Node Classification </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_virtual_adversarial_training_on_graph_convolutional_networks_in_node_classification/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_virtual_adversarial_training_on_graph_convolutional_networks_in_node_classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

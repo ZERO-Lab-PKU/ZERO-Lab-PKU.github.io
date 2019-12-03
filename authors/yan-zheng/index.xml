@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Zheng | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yan-zheng/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yan-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yan Zheng</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yan-zheng/</link>
+    </image>
+    
+    <item>
+      <title>The Augmented Homogeneous Coordinates Matrix Based Projective Mismatch Removal for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip19_the_augmented_homogeneous_coordinates_matrix_based_projective_mismatch_removal_for_partial-duplicate_image_search/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip19_the_augmented_homogeneous_coordinates_matrix_based_projective_mismatch_removal_for_partial-duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

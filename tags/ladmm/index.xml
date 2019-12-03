@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LADMM | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/ladmm/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/ladmm/index.xml" rel="self" type="application/rss+xml" />
+    <description>LADMM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>LADMM</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/ladmm/</link>
+    </image>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

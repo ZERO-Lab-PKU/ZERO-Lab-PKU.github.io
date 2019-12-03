@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image texture analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/image-texture-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/image-texture-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>image texture analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>image texture analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/image-texture-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Radon Representation-Based Feature Descriptor for Texture Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip09_radon_representation-based_feature_descriptor_for_texture_classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

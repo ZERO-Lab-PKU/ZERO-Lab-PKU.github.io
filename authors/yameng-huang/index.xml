@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yameng Huang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yameng-huang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yameng-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yameng Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yameng Huang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yameng-huang/</link>
+    </image>
+    
+    <item>
+      <title>Binary Multidimensional Scaling for Hashing</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_binary_multidimensional_scaling_for_hashing/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_binary_multidimensional_scaling_for_hashing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Multidimensional Ellipsoid-Specific Fitting by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

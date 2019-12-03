@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low Rank Representation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/low-rank-representation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/low-rank-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low Rank Representation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Low Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/low-rank-representation/</link>
+    </image>
+    
+    <item>
+      <title>Label Information Guided Graph Construction for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Low-Rank Representation for Graph Construction from Nonlinear Manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Tag Completion and Refinement by Subspace Clustering and Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Subspace Segmentation by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

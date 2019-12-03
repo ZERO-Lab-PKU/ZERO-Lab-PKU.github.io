@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ju Sun | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/ju-sun/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/ju-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ju Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Ju Sun</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/ju-sun/</link>
+    </image>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

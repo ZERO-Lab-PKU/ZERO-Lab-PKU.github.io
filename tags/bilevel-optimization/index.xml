@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilevel Optimization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/bilevel-optimization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/bilevel-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilevel Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Bilevel Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/bilevel-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

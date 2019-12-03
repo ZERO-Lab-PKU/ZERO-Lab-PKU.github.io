@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stochastic Convex Optimization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/stochastic-convex-optimization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/stochastic-convex-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stochastic Convex Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Stochastic Convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/stochastic-convex-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Faster and Non-ergodic O(1/K) Stochastic Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips17_faster_and_non-ergodic_o1_k_stochastic_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

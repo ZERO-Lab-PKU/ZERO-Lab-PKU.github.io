@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Haixian Wang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/and-haixian-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/and-haixian-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Haixian Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>and Haixian Wang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/and-haixian-wang/</link>
+    </image>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

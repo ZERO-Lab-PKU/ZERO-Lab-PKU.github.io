@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural scenes | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/natural-scenes/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/natural-scenes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natural scenes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Natural scenes</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/natural-scenes/</link>
+    </image>
+    
+    <item>
+      <title>A Robust Hybrid Method for Text Detection in Natural Scenes by Learning-based Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

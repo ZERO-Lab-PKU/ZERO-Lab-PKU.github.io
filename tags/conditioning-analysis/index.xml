@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conditioning analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/conditioning-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/conditioning-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>conditioning analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>conditioning analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/conditioning-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

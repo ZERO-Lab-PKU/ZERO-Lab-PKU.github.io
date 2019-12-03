@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pan Zhou | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/pan-zhou/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/pan-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pan Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Pan Zhou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/pan-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Dictionary Learning with Structured Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Factorization for Low-Rank Tensor Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_tensor_factorization_for_low-rank_tensor_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Learning via Partial Differential Equation with Applications to Face Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Low Rank Based Discriminative Feature Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

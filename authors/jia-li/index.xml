@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jia-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jia-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jia Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jia-li/</link>
+    </image>
+    
+    <item>
+      <title>Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai19_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demosaicking based on Channel-Correlation Adaptive Dictionary Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Design of High-Sensitivity Color Filter Arrays with Panchromatic Pixels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Color Filter Arrays for Sparse Representation Based Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose High Dynamic Range Imaging</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Design of Color Filter Arrays in the Frequency Domain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</link>
+      <pubDate>Thu, 18 Feb 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_automatic_design_of_color_filter_arrays_in_the_frequency_domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

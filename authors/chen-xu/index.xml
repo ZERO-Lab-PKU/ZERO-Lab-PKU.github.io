@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen Xu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/chen-xu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/chen-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Chen Xu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/chen-xu/</link>
+    </image>
+    
+    <item>
+      <title>Alternating Multi-bit Quantization for Recurrent Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Matrix Factorization by Majorization-Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Convex Surrogate for the Schatten-p Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

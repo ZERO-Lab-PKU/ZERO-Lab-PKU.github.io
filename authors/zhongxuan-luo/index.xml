@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongxuan Luo | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhongxuan-luo/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhongxuan-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongxuan Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhongxuan Luo</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhongxuan-luo/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Diffuse: A New Perspective to Design PDEs for Visual Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence of Learning-based Iterative Methods for Nonconvex Inverse Problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami15_on_the_convergence_of_learning-based_iterative_methods_for_nonconvex_inverse_problems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

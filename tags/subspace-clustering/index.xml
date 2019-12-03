@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subspace clustering | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/subspace-clustering/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/subspace-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subspace clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Subspace clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/subspace-clustering/</link>
+    </image>
+    
+    <item>
+      <title>Self-Supervised Convolutional Subspace Clustering Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering by Block Diagonal Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi19_subspace_clustering_by_block_diagonal_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering under Complex Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation Invariant Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr16_transformation_invariant_subspace_clustering/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr16_transformation_invariant_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering Based Tag Sharing for Inductive Tag Matrix Refinement with Complex Errors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR and Sparse Coding Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Tag Completion and Refinement by Subspace Clustering and Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering by Mixture of Gaussian Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_subspace_clustering_by_mixture_gaussian_regression/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_subspace_clustering_by_mixture_gaussian_regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Representation Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_lowrank_regularized_regression_for_face_recogonition_with_occlusion/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_robust_lowrank_regularized_regression_for_face_recogonition_with_occlusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smooth Representation Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_smooth_representation_clustering/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_smooth_representation_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcnn14_tensor_lrr_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Latent Low Rank Representation for Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</link>
+      <pubDate>Thu, 15 May 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_robust_latent_low_rank_representation_for_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correntropy Induced L2 Graph for Robust Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/iccv13_correntropy_induced_l2_graph_for_robust_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

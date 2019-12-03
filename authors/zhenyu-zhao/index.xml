@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenyu Zhao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhenyu-zhao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhenyu-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenyu Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhenyu Zhao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhenyu-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Feature Learning via Partial Differential Equation with Applications to Face Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/pr17_feature_learning_via_partial_differential_equation_with_applications_to_face_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Alternating Time-Splitting Approach for Learning Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_a_fast_alternating_time-splitting_approach_for_learning_partial_differential_equations/</link>
+      <pubDate>Thu, 20 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_a_fast_alternating_time-splitting_approach_for_learning_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Robust Hybrid Method for Text Detection in Natural Scenes by Learning-based Partial Differential Equations</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_a_robust_hybrid_method_for_text_detection_in_natural_scenes_by_learning-based_partial_differential_equations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

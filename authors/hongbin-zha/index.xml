@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongbin Zha | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/hongbin-zha/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hongbin-zha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongbin Zha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 01:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Hongbin Zha</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/hongbin-zha/</link>
+    </image>
+    
+    <item>
+      <title>Unified Graph and Low-rank Tensor Learning for Multi-view Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</link>
+      <pubDate>Wed, 12 Feb 2020 01:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Comprehensive Correlation Mining for Image Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/iccv19_deep_comprehensive_correlation_mining_for_image_clustering/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/iccv19_deep_comprehensive_correlation_mining_for_image_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Squeeze-and-Excitation Net for Single Image Deraining</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</link>
+      <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating Multi-bit Quantization for Recurrent Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Matrix Factorization by Majorization-Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Convex Surrogate for the Schatten-p Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_a_unified_convex_surrogate_for_the_schatten-p_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factorization for Projective and Metric Reconstruction via Truncated Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Latent Space Learning and Regression for Cross Modal Retrieval</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir17_joint_latent_space_learning_and_regression_for_cross_modal_retrieval/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir17_joint_latent_space_learning_and_regression_for_cross_modal_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-constrained Linear Coding Based Bi-layer Model for Multi-view Facial Expression Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Shape Interaction Matrix-Based Affine Invariant Mismatch Removal for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_the_shape_interaction_matrix_based_affine_invariant_mismatch_removal_for_partial_duplicated_image_search/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_the_shape_interaction_matrix_based_affine_invariant_mismatch_removal_for_partial_duplicated_image_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view Common Space Learning for Emotion Recognition in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Models Fusion for Emotion Recognition in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi15_multiple_models_fusion_for_emotion_recognition_in_the_wild/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi15_multiple_models_fusion_for_emotion_recognition_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Global Geometric Consistency for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

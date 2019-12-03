@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convergence Analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/convergence-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/convergence-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Convergence Analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Convergence Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/convergence-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai18_nonconvex_sparse_spectral_clustering_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIDER Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Asynchronous Stochastic Variance Reduction for Nonconvex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai17_parallel_asynchronous_stochastic_variance_reduction_for_nonconvex_optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

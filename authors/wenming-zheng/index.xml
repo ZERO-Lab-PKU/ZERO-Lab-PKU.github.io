@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenming Zheng | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/wenming-zheng/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/wenming-zheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenming Zheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Wenming Zheng</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/wenming-zheng/</link>
+    </image>
+    
+    <item>
+      <title>L1-Norm Heteroscedastic Discriminant Analysis under Mixture of Gaussian Distributions </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-constrained Linear Coding Based Bi-layer Model for Multi-view Facial Expression Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing17_locality-constrained_linear_coding_based_bi-layer_model_for_multi-view_facial_expression_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new discriminant subspace analysis approach for multi-class problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotion Recognition from Arbitrary View Facial Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_emotion_recogonition_from_adaptive_view_facial_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rank-One Update Algorithm for Fast Solving Kernel Foley-Sammon Optimal Discriminant Vectors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Approach to Expression Recognition from Non-frontal Face Images</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv09_a_novel_approach_to_expression_recognition_from_non-frontal_face_images/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv09_a_novel_approach_to_expression_recognition_from_non-frontal_face_images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Multi-class Spatio-Spectral Filters via Bayes Error Estimation for EEG Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

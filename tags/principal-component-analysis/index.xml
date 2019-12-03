@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Principal component analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/principal-component-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/principal-component-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Principal component analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Principal component analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/principal-component-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Laplacian Regularized Low-Rank Representation and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_laplacian_regularized_low-rank_representation_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated Low Rank Based Discriminative Feature Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regularized Approach for Geodesic Based Semi-Supervised Multi-Manifold Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1-Norm Kernel Discriminant Analysis Via Bayes Error Bound Optimization for Robust Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls14_l1-norm_kernel_discriminant_analysis_via_bayes_error_bound_optimization_for_robust_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Recovering a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian PCA and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

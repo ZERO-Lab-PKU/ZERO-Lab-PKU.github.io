@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Basis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/general-basis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/general-basis/index.xml" rel="self" type="application/rss+xml" />
+    <description>General Basis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>General Basis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/general-basis/</link>
+    </image>
+    
+    <item>
+      <title>Completing Low-Rank Matrices with Corrupted Samples from Few Coefficients in General Basis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

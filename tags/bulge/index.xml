@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bulge | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/bulge/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/bulge/index.xml" rel="self" type="application/rss+xml" />
+    <description>bulge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>bulge</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/bulge/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Analysis of the Bulging of Continuously Cast Slabs</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

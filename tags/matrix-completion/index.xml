@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrix Completion | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/matrix-completion/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/matrix-completion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matrix Completion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/matrix-completion/</link>
+    </image>
+    
+    <item>
+      <title>Subspace Clustering Based Tag Sharing for Inductive Tag Matrix Refinement with Complex Errors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/sigir16_subspace_clustering_based_tag_sharing_for_inductive_tag_matrix_refinement_with_complex_errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Tag Completion and Refinement by Subspace Clustering and Matrix Completion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/vcip15_image_tag_completion_and_refinement_by_subspace_clustering_and_matrix_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Retraction for Accelerating the Riemannian Three-Factor Low-Rank Matrix Completion Algorithm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr15_a_new_retraction_for_acclerating_the_riemannian_three_factor_low_rank_matrix_completion_algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

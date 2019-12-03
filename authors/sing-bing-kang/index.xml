@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sing Bing Kang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/sing-bing-kang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/sing-bing-kang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sing Bing Kang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Sing Bing Kang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/sing-bing-kang/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dictionary Learning | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/dictionary-learning/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/dictionary-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dictionary Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Dictionary Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/dictionary-learning/</link>
+    </image>
+    
+    <item>
+      <title>Demosaicking based on Channel-Correlation Adaptive Dictionary Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictionary Learning with Structured Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Dictionary Learning and Semantic Constrained Latent Subspace Projection for Cross-Modal Retrieval</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cikm18_joint_dictionary_learning_and_semantic_constrained_latent_subspace_projection_for_cross-modal_retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor LRR and Sparse Coding Based Subspace Clustering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tnnls16__tensor_lrr_and_sparse_coding_based_subspace_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Subspace Segmentation by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</link>
+      <pubDate>Mon, 21 Jun 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icml10_robust_subspace_segmentation_by_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Compression | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/data-compression/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/data-compression/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Compression</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Data Compression</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/data-compression/</link>
+    </image>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation for Rate-Distortion Optimized Image Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/dcc17_globally_variance-constrained_sparse_representation_for_rate-distortion_optimized_image_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length (MICL)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

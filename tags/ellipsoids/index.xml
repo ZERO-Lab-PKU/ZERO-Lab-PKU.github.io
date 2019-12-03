@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ellipsoids | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/ellipsoids/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/ellipsoids/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ellipsoids</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Ellipsoids</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/ellipsoids/</link>
+    </image>
+    
+    <item>
+      <title>Fast Multidimensional Ellipsoid-Specific Fitting by Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</link>
+      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_fast_multidimensional_ellipsoid-specific_fitting_by_alternating_direction_method_of_multipliers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

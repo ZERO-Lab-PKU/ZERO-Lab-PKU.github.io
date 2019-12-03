@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Majorization-Minimization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/majorization-minimization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/majorization-minimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Majorization-Minimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Majorization-Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/majorization-minimization/</link>
+    </image>
+    
+    <item>
+      <title>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami18_a_unified_alternating_direction_method_of_multipliers_by_majorization_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Matrix Factorization by Majorization-Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tmapi18_robust_matrix_factorization_by_majorization-minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxed Majorization-Minimization for Non-smooth and Non-convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_relaxed_majorization-minimization_for_non-smooth_and_non-convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

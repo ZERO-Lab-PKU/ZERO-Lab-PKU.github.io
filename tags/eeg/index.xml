@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EEG | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/eeg/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/eeg/index.xml" rel="self" type="application/rss+xml" />
+    <description>EEG</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>EEG</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/eeg/</link>
+    </image>
+    
+    <item>
+      <title>Optimizing Multi-class Spatio-Spectral Filters via Bayes Error Estimation for EEG Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips09_optimizing_multi-class_spatio-spectral_filters_via_bayes_error_estimation_for_eeg_classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

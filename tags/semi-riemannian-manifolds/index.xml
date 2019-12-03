@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> semi-Riemannian manifolds | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/semi-riemannian-manifolds/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/semi-riemannian-manifolds/index.xml" rel="self" type="application/rss+xml" />
+    <description> semi-Riemannian manifolds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title> semi-Riemannian manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/semi-riemannian-manifolds/</link>
+    </image>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

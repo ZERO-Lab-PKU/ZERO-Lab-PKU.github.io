@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Zhang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/tong-zhang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Tong Zhang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/tong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>L1-Norm Heteroscedastic Discriminant Analysis under Mixture of Gaussian Distributions </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharp Analysis for Nonconvex SGD Escaping from Saddle Points</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/colt19_sharp_analysis_for_nonconvex_sgd_escaping_from_saddle_points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPIDER Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sparse matrices | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/sparse-matrices/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/sparse-matrices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sparse matrices</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Sparse matrices</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/sparse-matrices/</link>
+    </image>
+    
+    <item>
+      <title>Nonconvex Nonsmooth Low-Rank Minimization via Iteratively Reweighted Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squared Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Structure Based Analyses on Compressive Sensing for Binary Sparse Sources</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc10_tree_structure_based_analyses_on_compressive_sensing_for_binary_sparse_sources/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/dcc10_tree_structure_based_analyses_on_compressive_sensing_for_binary_sparse_sources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Recovering a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

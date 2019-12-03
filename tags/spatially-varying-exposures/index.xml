@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spatially Varying Exposures | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/spatially-varying-exposures/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/spatially-varying-exposures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spatially Varying Exposures</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Spatially Varying Exposures</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/spatially-varying-exposures/</link>
+    </image>
+    
+    <item>
+      <title>Penrose High Dynamic Range Imaging</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei16_penrose_high_dynamic_range_imaging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

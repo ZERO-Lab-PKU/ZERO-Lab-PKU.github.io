@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning systems | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/learning-systems/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/learning-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Learning systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jun 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Learning systems</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/learning-systems/</link>
+    </image>
+    
+    <item>
+      <title>Integrated Low Rank Based Discriminative Feature Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</link>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tnnls16_integrated_low_rank_based_discriminative_feature_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

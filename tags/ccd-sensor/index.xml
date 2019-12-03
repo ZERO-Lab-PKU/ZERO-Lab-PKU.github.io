@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CCD sensor | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/ccd-sensor/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/ccd-sensor/index.xml" rel="self" type="application/rss+xml" />
+    <description>CCD sensor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>CCD sensor</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/ccd-sensor/</link>
+    </image>
+    
+    <item>
+      <title>Penrose Pixels for Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

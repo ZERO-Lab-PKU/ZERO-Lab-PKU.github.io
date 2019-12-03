@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoyu Hou | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/xiaoyu-hou/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xiaoyu-hou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoyu Hou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Xiaoyu Hou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xiaoyu-hou/</link>
+    </image>
+    
+    <item>
+      <title>Lorentzian Discriminant Projection and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

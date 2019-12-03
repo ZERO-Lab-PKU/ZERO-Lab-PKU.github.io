@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hujun Bao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/hujun-bao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hujun-bao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hujun Bao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Mar 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Hujun Bao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/hujun-bao/</link>
+    </image>
+    
+    <item>
+      <title>A Regularized Approach for Geodesic Based Semi-Supervised Multi-Manifold Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip14_a_regularized_approach_for_geodesic_based_semi-supervised_multi-manifold_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geodesic based semi-supervised multi-manifold feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

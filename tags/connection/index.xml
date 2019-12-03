@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connection | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/connection/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/connection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Connection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2007 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Connection</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/connection/</link>
+    </image>
+    
+    <item>
+      <title>Style-preserving English handwriting synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

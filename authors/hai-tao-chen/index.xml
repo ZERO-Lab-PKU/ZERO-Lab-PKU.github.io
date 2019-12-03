@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hai-Tao Chen | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/hai-tao-chen/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hai-tao-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hai-Tao Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Hai-Tao Chen</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/hai-tao-chen/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Polynomial Filters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-filtering 2D Polygons without Clipping</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

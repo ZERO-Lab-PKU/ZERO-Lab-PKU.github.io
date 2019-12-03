@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geodesic Distance | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/geodesic-distance/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/geodesic-distance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Geodesic Distance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Dec 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Geodesic Distance</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/geodesic-distance/</link>
+    </image>
+    
+    <item>
+      <title>Geodesic based semi-supervised multi-manifold feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</link>
+      <pubDate>Mon, 10 Dec 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdm12_geodesic_based_semi_supervised_multi_manifold_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

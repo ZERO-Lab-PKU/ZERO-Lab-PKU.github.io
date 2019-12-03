@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perturbation theorem | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/perturbation-theorem/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/perturbation-theorem/index.xml" rel="self" type="application/rss+xml" />
+    <description>perturbation theorem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>perturbation theorem</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/perturbation-theorem/</link>
+    </image>
+    
+    <item>
+      <title>Response to Comments on Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

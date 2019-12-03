@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yan Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yan-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yan Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yan Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yan-li/</link>
+    </image>
+    
+    <item>
+      <title>A Geometric Method for Optimal Design of Color Filter Arrays</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tip11_a_geometric_method_for_optimal_design_of_color_filter_arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Frequency Structure Matrix: A Representation of Color Filter Arrays</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijist11_the_frequency_structure_matrix_a_representation_of_color_filter_arrays/</link>
+      <pubDate>Wed, 16 Feb 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijist11_the_frequency_structure_matrix_a_representation_of_color_filter_arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: A Design Methodology</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: Representation and Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

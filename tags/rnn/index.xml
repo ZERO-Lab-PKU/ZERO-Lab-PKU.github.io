@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RNN | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/rnn/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/rnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>RNN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>RNN</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/rnn/</link>
+    </image>
+    
+    <item>
+      <title>Alternating Multi-bit Quantization for Recurrent Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/iclr18_alternating_multi-bit_quantization_for_recurrent_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

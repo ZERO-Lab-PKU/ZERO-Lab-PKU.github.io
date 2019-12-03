@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Guo | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jun-guo/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jun-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jun Guo</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jun-guo/</link>
+    </image>
+    
+    <item>
+      <title>Self-Supervised Convolutional Subspace Clustering Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bases sorting: Generalizing the concept of frequency for over-complete dictionaries</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

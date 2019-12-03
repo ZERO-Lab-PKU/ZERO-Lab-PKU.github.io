@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Zhang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/wei-zhang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/wei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Wei Zhang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/wei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Toward designing intelligent PDEs for computer vision An optimal control approach</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</link>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Pixels for Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami11_penrose_pixels_for_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning PDEs for Image Restoration via Optimal Control</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor linear Laplacian discrimination (TLLD) for feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Partial Differential Equations for Image Processing by Combining Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

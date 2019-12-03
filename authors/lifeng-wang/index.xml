@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lifeng Wang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/lifeng-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/lifeng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lifeng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Aug 2008 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Lifeng Wang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/lifeng-wang/</link>
+    </image>
+    
+    <item>
+      <title>One-Shot Approximate Local Shading</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Resolution Animated Scenes from Stills</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tvcg07_high_resolution_animated_scenes_from_stills/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tvcg07_high_resolution_animated_scenes_from_stills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored JPEG Images via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Order Approximation for Texture Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and rectification of light fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and Rectification of Light Fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

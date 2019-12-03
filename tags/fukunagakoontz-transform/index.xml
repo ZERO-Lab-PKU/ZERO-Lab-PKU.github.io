@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fukunaga–Koontz Transform | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/fukunagakoontz-transform/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/fukunagakoontz-transform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fukunaga–Koontz Transform</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Fukunaga–Koontz Transform</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/fukunagakoontz-transform/</link>
+    </image>
+    
+    <item>
+      <title>A new discriminant subspace analysis approach for multi-class problems</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr12_a_new_discriminant_subspace_analysis_approach_for_multi-class_problems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

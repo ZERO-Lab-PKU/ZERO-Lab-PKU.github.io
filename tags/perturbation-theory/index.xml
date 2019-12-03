@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>perturbation theory | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/perturbation-theory/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/perturbation-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>perturbation theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>perturbation theory</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/perturbation-theory/</link>
+    </image>
+    
+    <item>
+      <title>On the Fundamental Limits of Reconstruction-Based Super-resolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

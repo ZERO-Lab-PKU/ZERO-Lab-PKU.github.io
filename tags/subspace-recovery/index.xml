@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subspace Recovery | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/subspace-recovery/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/subspace-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subspace Recovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Subspace Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/subspace-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Completing Low-Rank Matrices with Corrupted Samples from Few Coefficients in General Basis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tit16_completing_low-rank_matrices_with_corrupted-samples_from_few_coefficients_in_general_basis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Low-Rank Models in Signal and Data Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/bdia16_a_review_on_low-rank_models_in_signal_and_data_analysis/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/bdia16_a_review_on_low-rank_models_in_signal_and_data_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Some Low Rank Subspace Recovery Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom15_relations_among_some_low_rank_subspace_recovery_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

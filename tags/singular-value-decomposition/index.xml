@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Singular value decomposition | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/singular-value-decomposition/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/singular-value-decomposition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Singular value decomposition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jan 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Singular value decomposition</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/singular-value-decomposition/</link>
+    </image>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty and Warm Starts for Fast Solving Transform Invariant Low-Rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</link>
+      <pubDate>Thu, 24 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ijcv13_linearized_alternating_direction_method_with_adaptive_penalty_and_warm_starts_for_fast_solving_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined Exponential Filter with Applications to Image Restoration and Interpolation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_refined_exponential_filter_with_applications_to_image_restoration_and_interpolation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

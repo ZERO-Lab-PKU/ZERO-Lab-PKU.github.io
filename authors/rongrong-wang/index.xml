@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rongrong Wang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/rongrong-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/rongrong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rongrong Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Rongrong Wang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/rongrong-wang/</link>
+    </image>
+    
+    <item>
+      <title>Table Detection in Online Ink Notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule-based cleanup of on-line English ink notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored Images Using Camera Response Normality and Consistency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

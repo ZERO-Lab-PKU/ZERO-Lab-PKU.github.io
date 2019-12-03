@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Human Pose Estimation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/3d-human-pose-estimation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/3d-human-pose-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Human Pose Estimation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>3D Human Pose Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/3d-human-pose-estimation/</link>
+    </image>
+    
+    <item>
+      <title>Robust 3D Human Pose Estimation from a Single Image or a Video Sequence</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami19_robust_3d_human_pose_estimation_from_a_single_image_or_a_video_sequence/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tpami19_robust_3d_human_pose_estimation_from_a_single_image_or_a_video_sequence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

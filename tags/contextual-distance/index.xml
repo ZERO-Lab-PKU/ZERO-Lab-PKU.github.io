@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contextual distance | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/contextual-distance/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/contextual-distance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contextual distance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Contextual distance</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/contextual-distance/</link>
+    </image>
+    
+    <item>
+      <title>Tensor linear Laplacian discrimination (TLLD) for feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Distance for Data Perception</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

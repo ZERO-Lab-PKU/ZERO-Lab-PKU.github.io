@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panchromatic Pixels | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/panchromatic-pixels/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/panchromatic-pixels/index.xml" rel="self" type="application/rss+xml" />
+    <description>Panchromatic Pixels</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Panchromatic Pixels</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/panchromatic-pixels/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Design of High-Sensitivity Color Filter Arrays with Panchromatic Pixels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_automatic_design_of_high-sensitivity_color_filter_arrays_with_panchromatic_pixels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

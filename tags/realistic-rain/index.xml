@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>realistic rain | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/realistic-rain/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/realistic-rain/index.xml" rel="self" type="application/rss+xml" />
+    <description>realistic rain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>realistic rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/realistic-rain/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/siggraph06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

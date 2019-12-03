@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward Chang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/edward-chang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/edward-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edward Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Edward Chang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/edward-chang/</link>
+    </image>
+    
+    <item>
+      <title>Dictionary Learning with Structured Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/neurocomputing18_dictionary_learning_with_structured_noise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

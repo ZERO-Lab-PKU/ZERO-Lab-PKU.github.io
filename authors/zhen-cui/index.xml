@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhen Cui | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhen-cui/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhen-cui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhen Cui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhen Cui</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhen-cui/</link>
+    </image>
+    
+    <item>
+      <title>L1-Norm Heteroscedastic Discriminant Analysis under Mixture of Gaussian Distributions </title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

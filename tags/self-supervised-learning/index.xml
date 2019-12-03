@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-Supervised Learning | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/self-supervised-learning/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/self-supervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-Supervised Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Self-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/self-supervised-learning/</link>
+    </image>
+    
+    <item>
+      <title>Self-Supervised Convolutional Subspace Clustering Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr19_self-supervised_convolutional_subspace_clustering_network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

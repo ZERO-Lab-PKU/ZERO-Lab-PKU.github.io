@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compressed Sensing | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/compressed-sensing/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/compressed-sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compressed Sensing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Compressed Sensing</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/compressed-sensing/</link>
+    </image>
+    
+    <item>
+      <title>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex Nonsmooth Low-Rank Minimization via Iteratively Reweighted Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</link>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip16_nonconvex_nonsmooth_low-rank_minimization_via_iteratively_reweighted_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of typical ℓp minimization algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</link>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

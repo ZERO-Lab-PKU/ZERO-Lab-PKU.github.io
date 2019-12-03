@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Yang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/li-yang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/li-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Li Yang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/li-yang/</link>
+    </image>
+    
+    <item>
+      <title>Factorization for Projective and Metric Reconstruction via Truncated Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcnn17_factorization_for_projective_and_metric_reconstruction_via_truncated_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Rank Global Geometric Consistency for Partial-Duplicate Image Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icpr14_low_rank_global_geometric_consistency_for_partial_duplicate_image_search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

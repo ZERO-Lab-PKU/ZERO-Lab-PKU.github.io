@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Saliency Detection | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/visual-saliency-detection/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/visual-saliency-detection/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Saliency Detection</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Visual Saliency Detection</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/visual-saliency-detection/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Partial Differential Equation Learning for Visual Saliency Detection</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

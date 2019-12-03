@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Liu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/wei-liu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/wei-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Wei Liu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/wei-liu/</link>
+    </image>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tpami18_tensor_robust_principal_component_analysis_with_a_new_tensor_nuclear_norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_tensor_robust_principal_component_analysis_exact_recovery_of_corrupted_low-rank_tensors_via_convex_optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

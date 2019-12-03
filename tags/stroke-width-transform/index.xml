@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stroke width transform | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/stroke-width-transform/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/stroke-width-transform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stroke width transform</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Stroke width transform</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/stroke-width-transform/</link>
+    </image>
+    
+    <item>
+      <title>Transform Invariant Text Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

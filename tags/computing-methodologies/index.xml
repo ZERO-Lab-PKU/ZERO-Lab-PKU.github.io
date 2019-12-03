@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing Methodologies | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/computing-methodologies/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/computing-methodologies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computing Methodologies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Computing Methodologies</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/computing-methodologies/</link>
+    </image>
+    
+    <item>
+      <title>Multi-view Common Space Learning for Emotion Recognition in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/icmi16_multi-view_common_space_learning_for_emotion_recognition_in_the_wild/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

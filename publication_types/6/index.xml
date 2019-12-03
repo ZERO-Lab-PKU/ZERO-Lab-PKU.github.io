@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/publication_types/6/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Closed-form Solutions of Some Low-Rank Subspace Recovery Models and Their Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/17_closed-form_solutions_of_some_low-rank_subspace_recovery_models_and_their_applications_in_chinese/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/17_closed-form_solutions_of_some_low-rank_subspace_recovery_models_and_their_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Models in Signal and Data Processing: Theories, Algorithms, and Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Minimization: Theories, Algorithms, and Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/13_rank_minimization_theories_algorithms_and_applications_in_chinese/</link>
+      <pubDate>Tue, 29 Oct 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/13_rank_minimization_theories_algorithms_and_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Thumbnail Generation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Based Image Superresolution Algorithms (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_learning-based_image_superresolution_algorithms_in_chinese/</link>
+      <pubDate>Sun, 19 Jul 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_learning-based_image_superresolution_algorithms_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature Sample Synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</link>
+      <pubDate>Sun, 19 Jul 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

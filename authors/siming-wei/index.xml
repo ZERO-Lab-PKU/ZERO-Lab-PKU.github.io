@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siming Wei | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/siming-wei/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/siming-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siming Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Siming Wei</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/siming-wei/</link>
+    </image>
+    
+    <item>
+      <title>Analysis and Improvement of Low Rank Representation for Subspace segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Block Lanczos with Warm Start Technique for Accelerating Nuclear Norm Minimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</link>
+      <pubDate>Sun, 19 Dec 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

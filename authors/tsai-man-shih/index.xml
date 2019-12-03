@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsai-Man Shih | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/tsai-man-shih/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tsai-man-shih/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsai-Man Shih</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Tsai-Man Shih</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/tsai-man-shih/</link>
+    </image>
+    
+    <item>
+      <title>Constrained Optimal Control of Continuous Casting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/thermec97_constrained_optimal_control_of_continuous_casting/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/thermec97_constrained_optimal_control_of_continuous_casting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Analysis of the Bulging of Continuously Cast Slabs</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sc97_numerical_analysis_of_the_bulging_of_continuously_cast_slabs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

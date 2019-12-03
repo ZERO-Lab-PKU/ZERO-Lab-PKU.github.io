@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DCT coefficient | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/dct-coefficient/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/dct-coefficient/index.xml" rel="self" type="application/rss+xml" />
+    <description>DCT coefficient</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>DCT coefficient</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/dct-coefficient/</link>
+    </image>
+    
+    <item>
+      <title>Fast, Automatic and Fine-Grained Tampered JPEG Images Detection via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

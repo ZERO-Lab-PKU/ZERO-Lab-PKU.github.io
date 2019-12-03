@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimensionality reduction | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/dimensionality-reduction/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/dimensionality-reduction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimensionality reduction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Dimensionality reduction</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/dimensionality-reduction/</link>
+    </image>
+    
+    <item>
+      <title>Learning Markov Random Walks for Robust Subspace Clustering and Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Learning Lorentzian Metric Tensor and Its Extensions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rank-One Update Algorithm for Fast Solving Kernel Foley-Sammon Optimal Discriminant Vectors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorentzian Discriminant Projection and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

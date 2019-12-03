@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latent Dirichlet Allocation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/latent-dirichlet-allocation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/latent-dirichlet-allocation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latent Dirichlet Allocation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jan 2013 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Latent Dirichlet Allocation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/latent-dirichlet-allocation/</link>
+    </image>
+    
+    <item>
+      <title>Regularized Semi-Supervised Latent Dirichlet Allocation for visual concept learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</link>
+      <pubDate>Sun, 13 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_regularized_semi-supervised_latent_dirichlet_allocation_for_visual_concept_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

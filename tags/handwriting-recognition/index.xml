@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handwriting recognition | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/handwriting-recognition/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/handwriting-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Handwriting recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Handwriting recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/handwriting-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Table Detection in Online Ink Notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule-based cleanup of on-line English ink notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Line Signature Verification With Two-Stage Statistical Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-line Signature Verification Incorporating the Prior Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

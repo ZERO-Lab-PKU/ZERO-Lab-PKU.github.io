@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Shen | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/li-shen/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/li-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Shen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Li Shen</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/li-shen/</link>
+    </image>
+    
+    <item>
+      <title>Relay Backpropagation for Effective Learning of Deep Convolutional Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/eccv16_relay_backpropagation_for_effective_learning_of_deep_convolutional_neural_networks/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/eccv16_relay_backpropagation_for_effective_learning_of_deep_convolutional_neural_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sharing for Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcai15_adaptive_sharing_for_image_classification/</link>
+      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/ijcai15_adaptive_sharing_for_image_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

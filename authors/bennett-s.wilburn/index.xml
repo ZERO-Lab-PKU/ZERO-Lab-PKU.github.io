@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bennett S.Wilburn | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/bennett-s.wilburn/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/bennett-s.wilburn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bennett S.Wilburn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Bennett S.Wilburn</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/bennett-s.wilburn/</link>
+    </image>
+    
+    <item>
+      <title>Aperiodic pixel layout for super-resolution (Invited Paper)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/spie10_aperiodic_pixel_layout_for_super-resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/spie10_aperiodic_pixel_layout_for_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

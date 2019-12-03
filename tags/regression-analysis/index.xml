@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression analysis | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/regression-analysis/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/regression-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regression analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Regression analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/regression-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Multi-output regression on the output manifold</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_multi-output_regression_on_the_output_manifold/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

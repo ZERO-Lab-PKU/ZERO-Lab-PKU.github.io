@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>view interpolation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/view-interpolation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/view-interpolation/index.xml" rel="self" type="application/rss+xml" />
+    <description>view interpolation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2004 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>view interpolation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/view-interpolation/</link>
+    </image>
+    
+    <item>
+      <title>A Geometric Analysis of Light Field Rendering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

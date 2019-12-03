@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>texture mapping | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/texture-mapping/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/texture-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>texture mapping</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>texture mapping</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/texture-mapping/</link>
+    </image>
+    
+    <item>
+      <title>First Order Approximation for Texture Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

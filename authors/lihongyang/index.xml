@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/lihongyang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/lihongyang/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZERO Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Oct 2019 10:10:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>ZERO Lab</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/lihongyang/</link>
+    </image>
+    
+    <item>
+      <title>COCO2019</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/coco2019/</link>
+      <pubDate>Sun, 27 Oct 2019 10:10:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/coco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COCO2018</title>
+      <link>https://ZERO-Lab-PKU.github.io/talk/coco2018/</link>
+      <pubDate>Sun, 09 Sep 2018 11:45:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/talk/coco2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

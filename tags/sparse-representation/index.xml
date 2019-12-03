@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sparse Representation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/sparse-representation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/sparse-representation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sparse Representation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Sparse Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/sparse-representation/</link>
+    </image>
+    
+    <item>
+      <title>Demosaicking based on Channel-Correlation Adaptive Dictionary Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/jei18_demosaicking_based_on_channel-correlation_adaptive_dictionary_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bilevel Model Based Discriminative Dictionary Learning for Recognition</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_bilevel_model_based_discriminative_dictionary_learning_for_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globally Variance-Constrained Sparse Representation and Its Application in Image Set Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_globally_variance-constrained_sparse_representation_and_its_application_in_image_set_coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Color Filter Arrays for Sparse Representation Based Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_optimized_color_filter_arrays_for_sparse_representation_based_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of typical ℓp minimization algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</link>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_a_comparison_of_typical_lp_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bases sorting: Generalizing the concept of frequency for over-complete dictionaries</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</link>
+      <pubDate>Wed, 05 Sep 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom13_bases_sorting_generalizing_the_concept_of_frequency_for_over-complete_dictionaries/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

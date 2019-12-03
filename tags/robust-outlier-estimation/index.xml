@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robust Outlier Estimation | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/robust-outlier-estimation/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/robust-outlier-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robust Outlier Estimation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Robust Outlier Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/robust-outlier-estimation/</link>
+    </image>
+    
+    <item>
+      <title>ROUTE: Robust Outlier Estimation for Low Rank Matrix Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/ijcai17_route_robust_outlier_estimation_for_low_rank_matrix_recovery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

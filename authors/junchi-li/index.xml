@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junchi Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/junchi-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/junchi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junchi Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Junchi Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/junchi-li/</link>
+    </image>
+    
+    <item>
+      <title>SPIDER Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_spider_near-optimal_non-convex_optimization_via_stochastic_path-integrated_differential_estimator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

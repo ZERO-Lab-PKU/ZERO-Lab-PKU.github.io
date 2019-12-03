@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/computer-vision/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</link>
+      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R^2 Net Recurrent and Recursive Network for Sparse View CT Artifacts Removal</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</link>
+      <pubDate>Wed, 19 Jun 2019 21:02:38 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/miccai19_r2net_recurrent_and_recursize_network_for_sparse_view_ct_artifacts_removal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Squeeze-and-Excitation Net for Single Image Deraining</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</link>
+      <pubDate>Thu, 19 Jul 2018 19:54:59 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/eccv18_recurrent_squeeze_and_excitation_net_for_single_image_deraining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips18_joint_sub-bands_learning_with_clique_structures_for_wavelet_domain_super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Kernel Estimation with Outliers Handling for Image Deblurring</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

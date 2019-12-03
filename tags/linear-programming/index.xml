@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linear programming | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/linear-programming/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/linear-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linear programming</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 12 Dec 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Linear programming</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/linear-programming/</link>
+    </image>
+    
+    <item>
+      <title>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squared Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_smoothed_low_rank_and_sparse_matrix_recovery_by_iteratively_reweighted_least_squared_minimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

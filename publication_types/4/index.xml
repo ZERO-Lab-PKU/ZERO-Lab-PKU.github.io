@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/publication_types/4/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Aug 2011 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>4</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Some Software Packages for Partial SVD Computation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_some_software_packages_for_partial_svd_computation/</link>
+      <pubDate>Fri, 19 Aug 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_some_software_packages_for_partial_svd_computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and Improvement of Low Rank Representation for Subspace segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Tue, 19 Jul 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/11_analysis_and_improvement_of_low_rank_representation_for_subspace_segmentation%E7%9A%84%E5%89%AF%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Block Lanczos with Warm Start Technique for Accelerating Nuclear Norm Minimization Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</link>
+      <pubDate>Sun, 19 Dec 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/10_a_block_lanczos_with_warm_start_technique_for_accelerating_nuclear_norm_minimization_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Augmented Lagrange Multiplier Method for Exact Recovery of Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</link>
+      <pubDate>Mon, 19 Oct 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Partial Differential Equations for Image Processing by Combining Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Convex Optimization Algorithms for Exact Recovery of a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: A Design Methodology</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_a_design_methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Filter Arrays: Representation and Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_color_filter_arrays_representation_and_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One-Shot Approximate Local Shading</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_one-shot_approximate_local_shading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Sun, 19 Aug 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</link>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/06_real-time_rendering_of_realistic_rain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

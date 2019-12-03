@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huan Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/huan-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huan Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Huan Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
+    </image>
+    
+    <item>
+      <title>Construction of Incoherent Dictionaries via Direct Babel Function Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_construction_of_incoherent_dictionaries_via_direct_babel_function_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization Algorithm Inspired Deep Neural Network Structure Design</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/acml18_optimization_algorithm_inspired_deep_neural_network_structure_design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/sp18_optimized_projections_for_compressed_sensing_via_direct_mutual_coherence_minimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provable Accelerated Gradient Method for Nonconvex Low Rank Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</link>
+      <pubDate>Sun, 02 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/ml17_provable_accelerated_gradient_method_for_nonconvex_low_rank_optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/aaai16_fast_proximal_linearized_alternating_direction_method_of_multiplier_with_parallel_splitting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Proximal Gradient Methods for Nonconvex Programming</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/nips15_accelerated_proximal_gradient_methods_for_nonconvex_programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

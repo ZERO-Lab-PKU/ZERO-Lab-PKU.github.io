@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junfeng He | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/junfeng-he/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/junfeng-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junfeng He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Junfeng He</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/junfeng-he/</link>
+    </image>
+    
+    <item>
+      <title>Fast, Automatic and Fine-Grained Tampered JPEG Images Detection via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Sun, 19 Aug 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Detection in Online Ink Notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored JPEG Images via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

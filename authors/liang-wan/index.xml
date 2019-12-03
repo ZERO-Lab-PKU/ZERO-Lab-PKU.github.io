@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Wan | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/liang-wan/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/liang-wan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liang Wan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Oct 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Liang Wan</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/liang-wan/</link>
+    </image>
+    
+    <item>
+      <title>Perceptual Thumbnail Generation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/12_perceptual_thumbnail_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature Sample Synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</link>
+      <pubDate>Sun, 19 Jul 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/09_signature_sample_synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual Image Preview</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/msj08_perceptual_image_preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style-preserving English handwriting synthesis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr07_style-preserving_english_handwriting_synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Order Approximation for Texture Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/pg06_first_order_approximation_for_texture_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Line Signature Verification With Two-Stage Statistical Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icdar05_on-line_signature_verification_with_two-stage_statistical_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-line Signature Verification Incorporating the Prior Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/icmlc03_off-line_signature_verification_incorporating_the_prior_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signature verification using integrated classifiers</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/sinobiometrics03_signature_verification_using_integrated_classifiers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

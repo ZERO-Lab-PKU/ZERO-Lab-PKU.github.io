@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoou Tang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/xiaoou-tang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xiaoou-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaoou Tang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Xiaoou Tang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xiaoou-tang/</link>
+    </image>
+    
+    <item>
+      <title>Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tkde11_learning_semi-riemannian_metrics_for_semisupervised_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Object Segmentation with a Hybrid Graph Model</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami10_unsupervised_object_segmentation_with_a_hybrid_graph_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Rank-One Update Algorithm for Fast Solving Kernel Foley-Sammon Optimal Discriminant Vectors</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tnn10_a_rank-one_update_algorithm_for_fast_solving_kernel_foley-sammon_optimal_discriminant_vectors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast, Automatic and Fine-Grained Tampered JPEG Images Detection via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_fast_automatic_and_fine-grained_tampered_jpeg_images_detection_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor linear Laplacian discrimination (TLLD) for feature extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr09_tensor_linear_laplacian_discrimination_tlld_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Partial Differential Equations for Image Processing by Combining Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_designing_partial_differential_equations_for_image_processing_by_combining_differential_invariants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Wed, 20 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv08_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Partial Differential Equations for Computer Vision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</link>
+      <pubDate>Tue, 19 Aug 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/08_learning_partial_differential_equations_for_computer_vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Semi-Riemannian Spaces</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr08_classification_via_semi-riemannian_spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Rendering of Realistic Rain</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Sun, 19 Aug 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Graph Model for Unsupervised Object Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_a_hybrid_graph_model_for_unsupervised_object_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Distance for Data Perception</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_contextual_distance_for_data_perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laplacian PCA and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_laplacian_pca_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits of Learning-Based Superresolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/iccv07_limits_of_learning-based_superresolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear Laplacian Discrimination for Feature Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr07_linear_laplacian_discrimination_for_feature_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored JPEG Images via DCT Coefficient Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/eccv06_detecting_doctored_jpeg_images_via_dct_coefficient_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored Images Using Camera Response Normality and Consistency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>light field | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/light-field/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/light-field/index.xml" rel="self" type="application/rss+xml" />
+    <description>light field</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2004 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>light field</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/light-field/</link>
+    </image>
+    
+    <item>
+      <title>A Geometric Analysis of Light Field Rendering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and rectification of light fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/cg03_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction and Rectification of Light Fields</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/vrai02_correction_and_rectification_of_light_fields/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

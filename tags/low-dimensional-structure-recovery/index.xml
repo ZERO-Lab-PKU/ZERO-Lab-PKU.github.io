@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-dimensional Structure Recovery | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/low-dimensional-structure-recovery/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/low-dimensional-structure-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-dimensional Structure Recovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Low-dimensional Structure Recovery</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/low-dimensional-structure-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Low Rank Matrix Recovery via Robust Outlier Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_low_rank_matrix_recovery_via_robust_outlier_estimation/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip18_low_rank_matrix_recovery_via_robust_outlier_estimation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

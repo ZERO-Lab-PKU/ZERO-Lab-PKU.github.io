@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando De la Torre | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/fernando-de-la-torre/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/fernando-de-la-torre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fernando De la Torre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2012 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Fernando De la Torre</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/fernando-de-la-torre/</link>
+    </image>
+    
+    <item>
+      <title>Fixed-Rank Representation for Unsupervised Visual Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

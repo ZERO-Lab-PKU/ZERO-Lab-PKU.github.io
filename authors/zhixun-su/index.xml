@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhixun Su | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhixun-su/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhixun-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhixun Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhixun Su</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhixun-su/</link>
+    </image>
+    
+    <item>
+      <title>Robust Kernel Estimation with Outliers Handling for Image Deblurring</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</link>
+      <pubDate>Tue, 19 Jul 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/gengzhengyang/cvpr16_robust_kernel_estimation_with_outliers_handling_for_image_deblurring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Markov Random Walks for Robust Subspace Clustering and Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neunet14_learning_markov_random_walks_for_robust_subspace_clustering_and_estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear time Principal Component Pursuit and its extensions using l1 Filtering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom14_linear_time_principal_component_pursuit_and_its_extensions_using_l1_filtering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</link>
+      <pubDate>Wed, 13 Nov 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/acml13_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_problems_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fixed-Rank Representation for Unsupervised Visual Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_fixed_rank_representation_for_unsupervised_visual_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward designing intelligent PDEs for computer vision An optimal control approach</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</link>
+      <pubDate>Tue, 06 Sep 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ivc13_toward_designing_intelligent_pdes_for_computer_vision_an_optimal_control_approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Extraction by Learning Lorentzian Metric Tensor and Its Extensions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr10_feature_extraction_by_learning_lorentzian_metric_tensor_and_its_extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning PDEs for Image Restoration via Optimal Control</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</link>
+      <pubDate>Fri, 10 Sep 2010 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/eccv10_learning_pdes_for_imge_restoration_via_optimal_control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorentzian Discriminant Projection and Its Applications</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/accv09_lorentzian_discriminant_projection_and_its_applications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

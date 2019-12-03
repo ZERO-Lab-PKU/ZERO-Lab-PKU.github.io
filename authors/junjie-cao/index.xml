@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junjie Cao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/junjie-cao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/junjie-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junjie Cao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2016 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Junjie Cao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/junjie-cao/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Diffuse: A New Perspective to Design PDEs for Visual Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</link>
+      <pubDate>Wed, 27 Jan 2016 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tpami16_learning_to_diffuse_a_new_perspective_to_design_pdes_for_visual_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Partial Differential Equation Learning for Visual Saliency Detection</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr14_adaptive_partial_differential_equation_learning_for_visual_saliency_detection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

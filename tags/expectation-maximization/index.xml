@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expectation Maximization | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/expectation-maximization/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/expectation-maximization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Expectation Maximization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 21:30:06 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Expectation Maximization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/expectation-maximization/</link>
+    </image>
+    
+    <item>
+      <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</link>
+      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace Clustering under Complex Noise</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tcsvt19_subspace_clustering_under_complex_noise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

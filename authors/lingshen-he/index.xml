@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingshen He | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/lingshen-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lingshen He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Lingshen He</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</link>
+    </image>
+    
+    <item>
+      <title>Neural Ordinary Differential Equations with Envolutionary Weights</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/prcv19_neural_ordinary_differential_equations_with_envolutionary_weights/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

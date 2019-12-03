@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yi Ma | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yi-ma/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yi-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yi Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yi Ma</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yi-ma/</link>
+    </image>
+    
+    <item>
+      <title>Label Information Guided Graph Construction for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/huangjianfeng/tip17_label_information_guided_graph_construction_for_semi-supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Models in Signal and Data Processing: Theories, Algorithms, and Applications (in Chinese)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</link>
+      <pubDate>Thu, 29 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/book-chapter/15_low-rank_models_in_signal_and_data_processing_theories_algorithms_and_applications_in_chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Locality-Preserving Low-Rank Representation for Graph Construction from Nonlinear Manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transform Invariant Text Extraction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</link>
+      <pubDate>Fri, 30 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tvc14_transform_invariant_text_extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rectification of Optical Characters as Transform Invariant Low-rank Textures</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</link>
+      <pubDate>Sun, 25 Aug 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Recovery of Subspace Structures by Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami13_robust_recovery_of_subspace_structures_by_low-rank_representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Low Rank and Sparse Graph for Semi-Supervised Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/cvpr12_non_negative_low_rank_and_sparse_graph_for_semi_supervised_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Algorithms for Recovering a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/camsap09_fast_algorithms_for_recovering_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Augmented Lagrange Multiplier Method for Exact Recovery of Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</link>
+      <pubDate>Mon, 19 Oct 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_the_augmented_lagrange_multiplier_method_for_exact_recovery_of_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Convex Optimization Algorithms for Exact Recovery of a Corrupted Low-Rank Matrix</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</link>
+      <pubDate>Wed, 19 Aug 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/wangyijia/technical-report/09_fast_convex_optimization_algorithms_for_exact_recovery_of_a_corrupted_low-rank_matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length (MICL)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lower bound | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/lower-bound/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/lower-bound/index.xml" rel="self" type="application/rss+xml" />
+    <description>lower bound</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>lower bound</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/lower-bound/</link>
+    </image>
+    
+    <item>
+      <title>On the Number of Samples Needed in Light Field Rendering with Constant-depth Assumption</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

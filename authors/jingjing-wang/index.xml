@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingjing Wang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jingjing-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jingjing-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingjing Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Oct 2015 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jingjing Wang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jingjing-wang/</link>
+    </image>
+    
+    <item>
+      <title>Locality-Preserving Low-Rank Representation for Graph Construction from Nonlinear Manifolds</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</link>
+      <pubDate>Mon, 19 Oct 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/neucom16_locality-preserving_low-rank_representation_for_graph_construction_from_nonlinear_manifolds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</link>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_constructing_a_nonnegative_low-rank_and_sparse_graph_with_data-adaptive_features/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

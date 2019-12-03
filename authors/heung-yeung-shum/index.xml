@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heung-Yeung Shum | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/heung-yeung-shum/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/heung-yeung-shum/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heung-Yeung Shum</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2009 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Heung-Yeung Shum</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/heung-yeung-shum/</link>
+    </image>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</link>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/siims09_classification_via_minimum_incremental_coding_length/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Rendering of Heterogeneous Translucent Materials Using the Diffusion Equation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</link>
+      <pubDate>Sat, 01 Mar 2008 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tog08_modeling_and_rendering_of_heterogeneous_translucent_materials_using_the_diffusion_equation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification via Minimum Incremental Coding Length (MICL)</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/nips07_classification_via_minimum_incremental_coding_length_micl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Table Detection in Online Ink Notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</link>
+      <pubDate>Tue, 01 Aug 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_table_detection_in_online_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rule-based cleanup of on-line English ink notes</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/pr06_rule-based_cleanup_of_on-line_english_ink_notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Comments on Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami06_response_to_comments_on_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Doctored Images Using Camera Response Normality and Consistency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr05_detecting_doctored_images_using_camera_response_normality_and_consistency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Polynomial Filters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_optimal_polynomial_filters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pre-filtering 2D Polygons without Clipping</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/jgt05_pre-filtering_2d_polygons_without_clipping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Geometric Analysis of Light Field Rendering</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</link>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv04_a_geometric_analysis_of_light_field_rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental Limits of Reconstruction-Based Superresolution Algorithms under Local Translation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/tpami04_fundamental_limits_of_reconstruction-based_superresolution_algorithms_under_local_translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihongyang/ijcv02_relighting_with_the_reflected_irradiance_field_representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Fundamental Limits of Reconstruction-Based Super-resolution Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_on_the_fundamental_limits_of_reconstruction-based_super-resolution_algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relighting with the Reflected Irradiance Field: Representation, Sampling and Reconstruction</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr01_relighting_with_the_reflected_irradiance_field__representation_sampling_and_reconstruction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Number of Samples Needed in Light Field Rendering with Constant-depth Assumption</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/xudapeng/cvpr00_on_the_number_of_samples_needed_in_light_field_rendering_with_constant-depth_assumption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

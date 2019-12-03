@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternating direction method | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/alternating-direction-method/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/alternating-direction-method/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alternating direction method</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Nov 2014 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Alternating direction method</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/alternating-direction-method/</link>
+    </image>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Parallel Splitting and Adaptive Penalty for Separable Convex Programs in Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</link>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/ml14_linearized_alternating_direction_method_with_parallel_splitting_and_adaptive_penalty_for_separable_convex_programs_in_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linearized Alternating Direction Method with Adaptive Penalty for Low-Rank Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/nuerips11_linearized_alternating_direction_method_with_adpative_penalty_for_low_rank_representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
