@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153875954-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153875954-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -387,13 +423,6 @@
   
   
   <div>
-    <h2><a href="/tags/discriminant-analysis/">Discriminant analysis</a></h2>
-    <div class="article-style">
-      
-    </div>
-  </div>
-  
-  <div>
     <h2><a href="/tags/lorentzian-geometry/">Lorentzian geometry</a></h2>
     <div class="article-style">
       
@@ -402,6 +431,13 @@
   
   <div>
     <h2><a href="/tags/metric-learning/">Metric learning</a></h2>
+    <div class="article-style">
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/tags/discriminant-analysis/">“discriminant analysis”</a></h2>
     <div class="article-style">
       
     </div>

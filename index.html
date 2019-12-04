@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153875954-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153875954-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -601,6 +637,40 @@ We research on machine learning, computer vision and related topics.</p>
 
 <div class="view-list-item">
   <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
+  <a href="/post/website_online/" >The website of the ZERO Lab is now online! </a>
+  <I>
+  
+  </I>
+ 
+  Dec 4, 2019.
+  
+  
+
+  
+
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="view-list-item">
+  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
   <a href="/post/aaai20/" >Four papers accepted by AAAI 2020! </a>
   <I>
   
@@ -754,41 +824,14 @@ We research on machine learning, computer vision and related topics.</p>
 
       
     
-      
-        
 
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="view-list-item">
-  <i class="far fa-newspaper pub-icon" aria-hidden="true"></i>
-  <a href="/post/colt19/" >One paper accepted by COLT 2019! </a>
-  <I>
-  
-  </I>
- 
-  Apr 19, 2019.
-  
-  
-
-  
-
-  
-
-</div>
-
-      
     
-
+    <div class="see-all">
+      <a href="/post/">
+        See all posts
+        <i class="fas fa-angle-right"></i>
+      </a>
+    </div>
     
 
   </div>
@@ -958,11 +1001,6 @@ We research on machine learning, computer vision and related topics.</p>
           
           
           
-          <a href="/tags/discriminant-analysis/" style="font-size:0.1rem">Discriminant analysis</a>
-        
-          
-          
-          
           <a href="/tags/document-analysis/" style="font-size:0.1rem">Document analysis</a>
         
           
@@ -1018,7 +1056,7 @@ We research on machine learning, computer vision and related topics.</p>
           
           
           
-          <a href="/tags/lumigraph/" style="font-size:0.5rem">Lumigraph</a>
+          <a href="/tags/lumigraph/" style="font-size:0.5rem">lumigraph</a>
         
           
           
@@ -1113,7 +1151,12 @@ We research on machine learning, computer vision and related topics.</p>
           
           
           
-          <a href="/tags/website/" style="font-size:1.1838045165405822rem">website</a>
+          <a href="/tags/website/" style="font-size:1.3358774586948416rem">website</a>
+        
+          
+          
+          
+          <a href="/tags/discriminant-analysis/" style="font-size:0.1rem">“discriminant analysis”</a>
         
       </div>
     

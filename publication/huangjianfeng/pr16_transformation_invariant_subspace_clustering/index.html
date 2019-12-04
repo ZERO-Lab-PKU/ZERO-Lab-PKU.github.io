@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153875954-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153875954-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -796,7 +832,7 @@
       
       <li><a href="/publication/limingjie/cvpr15_subspace_clustering_by_mixture_gaussian_regression/">Subspace Clustering by Mixture of Gaussian Regression</a></li>
       
-      <li><a href="/publication/limingjie/cvpr14_smooth_representation_clustering/">Smooth Representation Clustering</a></li>
+      <li><a href="/publication/limingjie/cvpr14_robust_lowrank_regularized_regression_for_face_recogonition_with_occlusion/">Smooth Representation Clustering</a></li>
       
     </ul>
   </div>

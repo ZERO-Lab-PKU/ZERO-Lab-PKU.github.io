@@ -91,6 +91,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153875954-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-153875954-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -382,13 +418,13 @@
     
       <li><a href="/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/">SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</a></li>
     
+      <li><a href="/post/website_online/">The website of the ZERO Lab is now online!</a></li>
+    
       <li><a href="/post/aaai20/">Four papers accepted by AAAI 2020!</a></li>
     
       <li><a href="/talk/iccv19-oral/">ICCV Oral</a></li>
     
       <li><a href="/post/coco19/">PKU_ZERO Team won the Innovative Award in COCO 2019!</a></li>
-    
-      <li><a href="/talk/coco2019/">COCO2019</a></li>
     
   </ul>
   
