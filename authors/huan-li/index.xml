@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/huan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Huan Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Huan Li</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
     </image>
+    
+    <item>
+      <title>Accelerated Alternating Direction Method of Multipliers: an Optimal O(1/K) Nonergodic Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Construction of Incoherent Dictionaries via Direct Babel Function Minimization</title>

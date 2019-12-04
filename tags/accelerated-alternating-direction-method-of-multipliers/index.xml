@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accelerated Alternating Direction Method of Multipliers | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/accelerated-alternating-direction-method-of-multipliers/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/accelerated-alternating-direction-method-of-multipliers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Accelerated Alternating Direction Method of Multipliers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 May 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Accelerated Alternating Direction Method of Multipliers</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/accelerated-alternating-direction-method-of-multipliers/</link>
+    </image>
+    
+    <item>
+      <title>Accelerated Alternating Direction Method of Multipliers: an Optimal O(1/K) Nonergodic Analysis</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
