@@ -797,6 +797,22 @@
     </item>
     
     <item>
+      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Demosaicking</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</link>
+      <pubDate>Fri, 06 Mar 2015 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exact Recoverability of Robust PCA via Outlier Pursuit with Tight Recovery Bounds</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/aaai15_exact_recoverability_of_robust_pca_via_outlier_pursuit_with_tight_recovery_bounds/</link>
       <pubDate>Sun, 25 Jan 2015 00:00:00 +0800</pubDate>
@@ -993,22 +1009,6 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</link>
       <pubDate>Sun, 25 Aug 2013 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/limingjie/icdar13_rectification_of_optical_characters_as_transform_invariant_low_rank_textures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Level Discriminative Dictionary Learning With Application to Large Scale Image Classification</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</link>
-      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_multi-level_discriminative_dictionary_learning_with_application_to_large_scale_image_classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penrose Demosaicking</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</link>
-      <pubDate>Wed, 06 Mar 2013 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/lifengcai/tip15_penrose_demosaicking/</guid>
       <description></description>
     </item>
     
