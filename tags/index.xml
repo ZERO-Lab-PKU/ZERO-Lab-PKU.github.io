@@ -61,14 +61,6 @@
     </item>
     
     <item>
-      <title>website</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/website/</link>
-      <pubDate>Wed, 04 Dec 2019 08:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Heteroscedastic discriminant criterion</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/heteroscedastic-discriminant-criterion/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
@@ -89,6 +81,30 @@
       <link>https://ZERO-Lab-PKU.github.io/tags/l1-norm-heteroscedastic-discriminant-analysis/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/l1-norm-heteroscedastic-discriminant-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global convergence</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/global-convergence/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/global-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-based iteration</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/learning-based-iteration/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/learning-based-iteration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonconvex optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/nonconvex-optimization/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/nonconvex-optimization/</guid>
       <description></description>
     </item>
     
@@ -1441,30 +1457,6 @@
       <link>https://ZERO-Lab-PKU.github.io/tags/ellipsoids/</link>
       <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/ellipsoids/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global convergence</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/global-convergence/</link>
-      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/global-convergence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning-based iteration</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/learning-based-iteration/</link>
-      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/learning-based-iteration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nonconvex optimization</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/nonconvex-optimization/</link>
-      <pubDate>Sat, 08 Aug 2015 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/nonconvex-optimization/</guid>
       <description></description>
     </item>
     
