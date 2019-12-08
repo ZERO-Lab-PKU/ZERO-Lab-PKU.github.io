@@ -1137,14 +1137,6 @@
     </item>
     
     <item>
-      <title>Huchuang Lu</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/huchuang-lu/</link>
-      <pubDate>Mon, 08 Jun 2015 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/huchuang-lu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tianzhu Zhuang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/tianzhu-zhuang/</link>
       <pubDate>Thu, 04 Jun 2015 00:00:00 +0800</pubDate>
@@ -1221,14 +1213,6 @@
       <link>https://ZERO-Lab-PKU.github.io/authors/yunchao-wei/</link>
       <pubDate>Sun, 27 Jul 2014 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/yunchao-wei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alan L. Yuile</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/alan-l.-yuile/</link>
-      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/alan-l.-yuile/</guid>
       <description></description>
     </item>
     
@@ -2008,6 +1992,24 @@
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jiafan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/jiafan/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Ph.D. student in the Mathematics Department at Hong Kong Baptist University, supervised by Prof. TAI Xue-cheng. During 2016-2017, I was lucky enough to be an intern under the supervision of Prof. Zhouchen Lin. My current interests are mainly image processing and deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jiangaopeng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/jiangaopeng/</guid>
+      <description>&lt;p&gt;I was a post-doc researcher working with &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt; from 2017 to 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/authors/jiangfeng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/jiangfeng/</guid>
@@ -2146,6 +2148,15 @@ I obtained my phd degree from the National University of Singapore, working clos
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/nitianwei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/nitianwei/</guid>
+      <description>&lt;p&gt;I am a first-year master student in Machine Learning Department at Carnegie Mellon University. Prior to that, I got my Bachelor&amp;rsquo;s degree in Peking University, where I was honored to be supervised by &lt;a href=&#34;https://zhouchenlin.github.io/&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/authors/shenli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/shenli/</guid>
@@ -2153,6 +2164,15 @@ I obtained my phd degree from the National University of Singapore, working clos
 
 &lt;p&gt;I received my PhD in Computer Science from the University of Chinese Academy of Sciences, under the supervision of Prof. Qingming Huang. I was also supervised by Prof. Zhouchen Lin at Peking University.
 My research interests are in computer vision and deep learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/shenzhengyang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/shenzhengyang/</guid>
+      <description>&lt;p&gt;I am currently a third-year Ph.D. student in School of Mathematical Sciences at Peking University at Peking University, advised by Profs. Jinwen Ma and Zhouchen Lin. I obtained my bachelor&amp;rsquo;s degree of mathematics from Wuhan University Of Technology in 2017.&lt;/p&gt;
 </description>
     </item>
     
@@ -2222,6 +2242,15 @@ In Lin&amp;rsquo;s lab, conducting pure, interesting and cool research will enco
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xiayu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/xiayu/</guid>
+      <description>&lt;p&gt;I’m Yu Xia, a quant developer working in E Fund. Before that, I received my M.Sc. degree in machine learning from School of Electronics Engineering and Computer Science, Peking University in 2019, advised by Professor Zhouchen Lin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/authors/xiexingyu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/xiexingyu/</guid>
@@ -2253,6 +2282,16 @@ In Lin&amp;rsquo;s lab, conducting pure, interesting and cool research will enco
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/xuliding/</guid>
       <description>&lt;p&gt;I am currently a Master 2 student in Optimization, at Department of Mathematics, Université Paris-Sud (XI), France. Before that, I spent one year at École Polytechnique, France as a Master 1 student in Computer Science. I obtained my B.E. degree from Peking University, China, and I am lucky to do my bachelor thesis under supervision of Prof.Lin.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/xuxin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/xuxin/</guid>
+      <description>&lt;p&gt;I am working on a master&amp;rsquo;s degree in Department of Precision Instruments, Tsinghua University. I obtained my Bachelor of Engineering (B.Eng) degree from Department of Automatic Control, Shandong University in 2017.My primary research interests lie in machine learning and computer vision.
+Here I am lucky enough to work with &lt;a href=&#34;https://zhouchenlin.github.io&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -2307,6 +2346,15 @@ In Lin&amp;rsquo;s lab, conducting pure, interesting and cool research will enco
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/zhaozhenyu/</guid>
       <description>&lt;p&gt;I am a lecturer at College of Liberal Arts and Sciences, National University of Defense and Technology. My research interests include computer vision, pattern recognition and machine learning. I had been a visiting PhD student at Peking University in Lin&amp;rsquo;s Lab during 2013-2015. I received the B.S. degree in mathematics from University of Science and Technology of China in 2009, and the Ph.D. degree in applied mathematics from National University of Defense and Technology in 2016.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhengyuchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/zhengyuchen/</guid>
+      <description>&lt;p&gt;I am a second-year DS master student at Peking University (PKU). Here I am lucky enough to work with &lt;a href=&#34;https://zhouchenlin.github.io&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt;. Before studying in PKU, I obtained my bachelor’s degree from Chung Yuan Christian University in Taiwan.&lt;/p&gt;
 </description>
     </item>
     
