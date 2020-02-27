@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/publication_types/1/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 01:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://ZERO-Lab-PKU.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unified Graph and Low-rank Tensor Learning for Multi-view Clustering</title>
@@ -21,10 +29,18 @@
     </item>
     
     <item>
-      <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
+      <title>Synthetic Depth Transfer for Monocular 3D Object Pose Estimation in the Wild</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 12 Feb 2020 00:01:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_synthetic_depth_transfer_for_monocular_3d_object_pose_estimation_in_the_wild/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_synthetic_depth_transfer_for_monocular_3d_object_pose_estimation_in_the_wild/</guid>
       <description></description>
     </item>
     

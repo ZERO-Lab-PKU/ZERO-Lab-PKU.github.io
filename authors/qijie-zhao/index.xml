@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Qijie Zhao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Qijie Zhao</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/</link>
     </image>
+    
+    <item>
+      <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SOGNet: Scene Overlap Graph Network for Panoptic Segmentation</title>

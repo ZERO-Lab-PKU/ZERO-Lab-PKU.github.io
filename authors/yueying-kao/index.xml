@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yueying Kao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yueying-kao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yueying-kao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yueying Kao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 00:01:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yueying Kao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yueying-kao/</link>
+    </image>
+    
+    <item>
+      <title>Synthetic Depth Transfer for Monocular 3D Object Pose Estimation in the Wild</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
+      <pubDate>Wed, 12 Feb 2020 00:01:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiancheng Shen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Tiancheng Shen</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dynamical System Inspired Adaptive Time Stepping Controller for Residual Network Families</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_synthetic_depth_transfer_for_monocular_3d_object_pose_estimation_in_the_wild/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_synthetic_depth_transfer_for_monocular_3d_object_pose_estimation_in_the_wild/</guid>
       <description></description>
     </item>
     

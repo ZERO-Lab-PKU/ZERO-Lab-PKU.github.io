@@ -18,13 +18,93 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
+    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/post/</loc>
+    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/post/cvpr20/</loc>
+    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/xia-li/</loc>
+    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/</loc>
+    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/graph-convolutional-network/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/hong-liu/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/image-pyramid/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yibo-yang/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
+    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -43,16 +123,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_unified_graph_and_low-rank_tensor_learning_for_multi-view_clustering/</loc>
     <lastmod>2020-02-12T01:00:00+08:00</lastmod>
   </url>
@@ -63,13 +133,48 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
-    <lastmod>2020-02-12T01:00:00+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/qiang-wang/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/sunghoon-hong/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/synthetic-image/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/transfer-learning/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/weiming-li/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/wooshik-kim/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yueying-kao/</loc>
+    <lastmod>2020-02-12T00:01:00+08:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_dynamic_system_inspired_adaptive_time_stepping_controller_for_residual_networks_families/</loc>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_synthetic_depth_transfer_for_monocular_3d_object_pose_estimation_in_the_wild/</loc>
     <lastmod>2020-02-06T00:00:00+08:00</lastmod>
   </url>
   
@@ -123,32 +228,7 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/</loc>
-    <lastmod>2020-02-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</loc>
-    <lastmod>2020-02-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/</loc>
-    <lastmod>2020-02-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</loc>
-    <lastmod>2020-02-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/xia-li/</loc>
-    <lastmod>2020-02-06T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/yibo-yang/</loc>
     <lastmod>2020-02-06T00:00:00+08:00</lastmod>
   </url>
   
@@ -185,11 +265,6 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/o1/k-nonergodic-convergence-rate/</loc>
     <lastmod>2019-12-10T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/post/</loc>
-    <lastmod>2019-12-03T22:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -344,16 +419,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/iccv19_expectation_maximization_attention_network_for_semantic_segmentation/</loc>
-    <lastmod>2019-07-22T21:30:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/hong-liu/</loc>
-    <lastmod>2019-07-22T21:30:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</loc>
     <lastmod>2019-07-22T21:30:06+08:00</lastmod>
   </url>
   
@@ -2544,11 +2609,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/jie-zhou/</loc>
-    <lastmod>2014-06-24T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</loc>
     <lastmod>2014-06-24T00:00:00+08:00</lastmod>
   </url>
   

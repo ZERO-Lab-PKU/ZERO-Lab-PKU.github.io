@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/hong-liu/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hong-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Hong Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jul 2019 21:30:06 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Hong Liu</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/hong-liu/</link>
     </image>
+    
+    <item>
+      <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Expectation Maximization Attention Networks for Semantic Segmentation</title>

@@ -5,12 +5,60 @@
     <link>https://ZERO-Lab-PKU.github.io/tags/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Graph convolutional network</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/graph-convolutional-network/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/graph-convolutional-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image pyramid</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/image-pyramid/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/image-pyramid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pose Estimation</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</link>
+      <pubDate>Wed, 12 Feb 2020 00:01:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic image</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/synthetic-image/</link>
+      <pubDate>Wed, 12 Feb 2020 00:01:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/synthetic-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/transfer-learning/</link>
+      <pubDate>Wed, 12 Feb 2020 00:01:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/transfer-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computer Vision</title>
@@ -137,14 +185,6 @@
       <link>https://ZERO-Lab-PKU.github.io/tags/expectation-maximization/</link>
       <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/expectation-maximization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semantic segmentation</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</link>
-      <pubDate>Mon, 22 Jul 2019 21:30:06 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</guid>
       <description></description>
     </item>
     
@@ -1733,14 +1773,6 @@
     </item>
     
     <item>
-      <title>Pose Estimation</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</link>
-      <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/pose-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Visual Saliency Detection</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/visual-saliency-detection/</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0800</pubDate>
@@ -2925,7 +2957,7 @@
     </item>
     
     <item>
-      <title>light field</title>
+      <title>Light field</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/light-field/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/light-field/</guid>
