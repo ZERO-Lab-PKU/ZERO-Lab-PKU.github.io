@@ -19,26 +19,81 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+    <lastmod>2020-03-01T22:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/</loc>
-    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+    <lastmod>2020-03-01T22:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/post/cvpr20/</loc>
-    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/post/jlmr20/</loc>
+    <lastmod>2020-03-01T22:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/xia-li/</loc>
-    <lastmod>2020-02-24T22:00:00+08:00</lastmod>
+    <lastmod>2020-03-01T22:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
+    <lastmod>2020-03-01T22:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/accelerated-randomized-dual-coordinate-ascent/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/convergence-theory/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/huan-li/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/primal-solutions/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
+    <lastmod>2020-03-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/post/cvpr20/</loc>
     <lastmod>2020-02-24T22:00:00+08:00</lastmod>
   </url>
   
@@ -63,16 +118,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/qijie-zhao/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
   </url>
@@ -88,22 +133,12 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yibo-yang/</loc>
-    <lastmod>2020-02-24T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
     <lastmod>2020-02-24T00:00:00+08:00</lastmod>
   </url>
   
@@ -238,22 +273,12 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
-    <lastmod>2019-12-10T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/accelerated-alternating-direction-method-of-multipliers/</loc>
     <lastmod>2019-12-10T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/helingshen/jsc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o_1k_nonergodic_analy/</loc>
-    <lastmod>2019-12-10T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/huan-li/</loc>
     <lastmod>2019-12-10T00:00:00+08:00</lastmod>
   </url>
   

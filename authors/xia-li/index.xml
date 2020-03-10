@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/xia-li/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xia-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xia Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 13:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 13:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Xia Li</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/xia-li/</link>
     </image>
+    
+    <item>
+      <title>One paper was accepted by JMLR!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/jlmr20/</link>
+      <pubDate>Sun, 01 Mar 2020 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/jlmr20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One paper was accepted by CVPR 2020!</title>

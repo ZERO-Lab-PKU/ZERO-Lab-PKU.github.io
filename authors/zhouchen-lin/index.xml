@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhouchen Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhouchen Lin</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
     </image>
+    
+    <item>
+      <title>On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>

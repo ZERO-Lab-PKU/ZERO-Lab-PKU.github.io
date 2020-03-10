@@ -5,12 +5,36 @@
     <link>https://ZERO-Lab-PKU.github.io/tags/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>accelerated randomized dual coordinate ascent</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/accelerated-randomized-dual-coordinate-ascent/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/accelerated-randomized-dual-coordinate-ascent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convergence theory</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/convergence-theory/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/convergence-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primal solutions</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/primal-solutions/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/primal-solutions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph convolutional network</title>

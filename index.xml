@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 13:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 13:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -80,6 +80,22 @@
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by JMLR!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/jlmr20/</link>
+      <pubDate>Sun, 01 Mar 2020 13:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/jlmr20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <description></description>
     </item>
     
     <item>
