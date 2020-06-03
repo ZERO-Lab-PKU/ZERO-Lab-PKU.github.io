@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalization Bound | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/generalization-bound/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/generalization-bound/index.xml" rel="self" type="application/rss+xml" />
+    <description>Generalization Bound</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Generalization Bound</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/generalization-bound/</link>
+    </image>
+    
+    <item>
+      <title>Maximum-and-Concatenation Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/new/icml20_maximum-and-concatenation_networks/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/new/icml20_maximum-and-concatenation_networks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
