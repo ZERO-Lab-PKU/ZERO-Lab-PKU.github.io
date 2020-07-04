@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/publication_types/2/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 08:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Accelerated First-Order Optimization Algorithms for Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</link>
+      <pubDate>Thu, 02 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
       <description></description>
     </item>
     
@@ -86,9 +94,9 @@
     
     <item>
       <title>Accelerated Alternating Direction Method of Multipliers: an Optimal O(1/K) Nonergodic Analysis</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
       <description></description>
     </item>
     

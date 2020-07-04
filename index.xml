@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 13:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -83,6 +83,46 @@
     </item>
     
     <item>
+      <title>Improving Semantic Segmentation via Decoupled Body and Edge Supervision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</link>
+      <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two paper were accepted by ECCV 2020!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/eccv20/</link>
+      <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/eccv20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invertible Image Rescaling</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_invertible_image_rescaling/</link>
+      <pubDate>Fri, 03 Jul 2020 07:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_invertible_image_rescaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated First-Order Optimization Algorithms for Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</link>
+      <pubDate>Thu, 02 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by Proceedings of the IEEE!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/pieee20/</link>
+      <pubDate>Thu, 02 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/pieee20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Three papers were accepted by ICML 2020!</title>
       <link>https://ZERO-Lab-PKU.github.io/post/icml20/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0800</pubDate>
@@ -92,25 +132,25 @@
     
     <item>
       <title>Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/icml20_implicit_euler_skip_connections/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_implicit_euler_skip_connections/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/icml20_implicit_euler_skip_connections/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_implicit_euler_skip_connections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximum-and-Concatenation Networks</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/icml20_maximum-and-concatenation_networks/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_maximum-and-concatenation_networks/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/icml20_maximum-and-concatenation_networks/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_maximum-and-concatenation_networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</guid>
       <description></description>
     </item>
     
@@ -124,9 +164,9 @@
     
     <item>
       <title>On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
       <description></description>
     </item>
     
@@ -140,9 +180,9 @@
     
     <item>
       <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
       <description></description>
     </item>
     
@@ -372,9 +412,9 @@
     
     <item>
       <title>Accelerated Alternating Direction Method of Multipliers: an Optimal O(1/K) Nonergodic Analysis</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/cong-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Fang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 08:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Cong Fang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
     </image>
+    
+    <item>
+      <title>Accelerated First-Order Optimization Algorithms for Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</link>
+      <pubDate>Thu, 02 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/pieee20_accelerated_first_order_optimization_algorithms_for_machine_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lifted Proximal Operator Machines</title>

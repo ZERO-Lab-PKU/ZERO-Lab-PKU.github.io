@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>convergence theory | ZERO Lab</title>
+    <title>Convergence Theory | ZERO Lab</title>
     <link>https://ZERO-Lab-PKU.github.io/tags/convergence-theory/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/convergence-theory/index.xml" rel="self" type="application/rss+xml" />
-    <description>convergence theory</description>
+    <description>Convergence Theory</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
-      <title>convergence theory</title>
+      <title>Convergence Theory</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/convergence-theory/</link>
     </image>
     
     <item>
       <title>On the Complexity Analysis of the Primal Solutions for the Accelerated Randomized Dual Coordinate Ascent</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
       <description></description>
     </item>
     

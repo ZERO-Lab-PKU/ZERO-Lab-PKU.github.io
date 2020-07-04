@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>unsupervised learning | ZERO Lab</title>
+    <title>Unsupervised Learning | ZERO Lab</title>
     <link>https://ZERO-Lab-PKU.github.io/tags/unsupervised-learning/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>unsupervised learning</description>
+    <description>Unsupervised Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
-      <title>unsupervised learning</title>
+      <title>Unsupervised Learning</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/unsupervised-learning/</link>
     </image>
     

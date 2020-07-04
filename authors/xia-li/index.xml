@@ -5,12 +5,36 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/xia-li/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/xia-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Xia Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 13:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Xia Li</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/xia-li/</link>
     </image>
+    
+    <item>
+      <title>Improving Semantic Segmentation via Decoupled Body and Edge Supervision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</link>
+      <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two paper were accepted by ECCV 2020!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/eccv20/</link>
+      <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/eccv20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by Proceedings of the IEEE!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/pieee20/</link>
+      <pubDate>Thu, 02 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/pieee20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Three papers were accepted by ICML 2020!</title>
@@ -38,9 +62,9 @@
     
     <item>
       <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/new/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/cvpr20_spatial_pyramid_graph_reasoning_for_semantic_segmentation/</guid>
       <description></description>
     </item>
     

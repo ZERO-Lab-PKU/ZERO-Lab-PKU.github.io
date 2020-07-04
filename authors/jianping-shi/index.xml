@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianping Shi | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/jianping-shi/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jianping-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianping Shi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Jianping Shi</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jianping-shi/</link>
+    </image>
+    
+    <item>
+      <title>Improving Semantic Segmentation via Decoupled Body and Edge Supervision</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</link>
+      <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/eccv2020_improving_semantic_segmentation_via_decoupled_body_and_edge_supervision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
