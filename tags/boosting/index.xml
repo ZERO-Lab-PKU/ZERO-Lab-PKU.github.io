@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/tags/boosting/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/boosting/index.xml" rel="self" type="application/rss+xml" />
     <description>Boosting</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Boosting</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/boosting/</link>
     </image>
+    
+    <item>
+      <title>Boosted Histogram Transform for Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Signature verification using integrated classifiers</title>

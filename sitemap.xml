@@ -248,6 +248,16 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/boosting/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/deep-learning-theory/</loc>
     <lastmod>2020-06-01T00:00:00+08:00</lastmod>
   </url>
@@ -273,7 +283,22 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/hanfang-yang/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/hanyuan-hang/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/hao-kong/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/histogram-transform/</loc>
     <lastmod>2020-06-01T00:00:00+08:00</lastmod>
   </url>
   
@@ -328,12 +353,22 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/regression/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/wayne-zhang/</loc>
     <lastmod>2020-06-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/xingyu-xie/</loc>
+    <lastmod>2020-06-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yuchao-cai/</loc>
     <lastmod>2020-06-01T00:00:00+08:00</lastmod>
   </url>
   
@@ -4489,11 +4524,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/adaptive-threshold/</loc>
-    <lastmod>2003-01-01T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/boosting/</loc>
     <lastmod>2003-01-01T00:00:00+08:00</lastmod>
   </url>
   

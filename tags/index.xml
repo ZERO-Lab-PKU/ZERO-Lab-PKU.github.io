@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Semantic Segmentation</title>
+      <title>Semantic segmentation</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</link>
       <pubDate>Fri, 03 Jul 2020 08:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</guid>
@@ -125,6 +125,14 @@
     </item>
     
     <item>
+      <title>Boosting</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/boosting/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning Theory</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/deep-learning-theory/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
@@ -157,6 +165,14 @@
     </item>
     
     <item>
+      <title>Histogram Transform</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/histogram-transform/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/histogram-transform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Local Minima</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/local-minima/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
@@ -177,6 +193,14 @@
       <link>https://ZERO-Lab-PKU.github.io/tags/pdo/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/pdo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/regression/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -3093,7 +3117,7 @@
     </item>
     
     <item>
-      <title>Light field</title>
+      <title>light field</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/light-field/</link>
       <pubDate>Thu, 01 Jul 2004 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/light-field/</guid>
@@ -3177,14 +3201,6 @@
       <link>https://ZERO-Lab-PKU.github.io/tags/adaptive-threshold/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/tags/adaptive-threshold/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Boosting</title>
-      <link>https://ZERO-Lab-PKU.github.io/tags/boosting/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/tags/boosting/</guid>
       <description></description>
     </item>
     

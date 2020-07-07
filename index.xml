@@ -123,10 +123,18 @@
     </item>
     
     <item>
-      <title>Three papers were accepted by ICML 2020!</title>
+      <title>Four papers were accepted by ICML 2020!</title>
       <link>https://ZERO-Lab-PKU.github.io/post/icml20/</link>
       <pubDate>Mon, 01 Jun 2020 13:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/post/icml20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosted Histogram Transform for Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</guid>
       <description></description>
     </item>
     

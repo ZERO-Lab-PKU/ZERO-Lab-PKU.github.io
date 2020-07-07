@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuchao Cai | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yuchao-cai/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yuchao-cai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuchao Cai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yuchao Cai</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yuchao-cai/</link>
+    </image>
+    
+    <item>
+      <title>Boosted Histogram Transform for Regression</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_boosted_histogram_transform_for_regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
