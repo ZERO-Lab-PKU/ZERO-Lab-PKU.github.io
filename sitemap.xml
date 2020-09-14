@@ -19,12 +19,12 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -59,7 +59,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -74,7 +74,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -99,7 +99,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2020-09-14T15:46:38+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -259,7 +259,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/equivariance/</loc>
-    <lastmod>2020-07-04T20:06:38+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -275,6 +275,11 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/hanfang-yang/</loc>
     <lastmod>2020-07-07T22:12:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/hanxun-huang/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -295,6 +300,11 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_implicit_euler_skip_connections/</loc>
     <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/james-bailey/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -329,12 +339,17 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/neural-network/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_normalized_loss_functions_for_deep_learning_with_noisy_labels/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/pdo/</loc>
-    <lastmod>2020-07-04T20:06:38+08:00</lastmod>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -348,13 +363,33 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/sarah-erfani/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/simone-romano/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/wayne-zhang/</loc>
     <lastmod>2020-07-14T15:34:14+08:00</lastmod>
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/xingjun-ma/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/xingyu-xie/</loc>
     <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -365,6 +400,21 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhengyang-shen/</loc>
     <lastmod>2020-07-04T20:06:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/shu-tao-xia/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</loc>
+    <lastmod>2020-09-14T16:33:45+08:00</lastmod>
   </url>
   
   <url>
@@ -554,52 +604,37 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/adversarial-defense/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/adversarial-training/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/james-bailey/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/robustness/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/xingjun-ma/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
-    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
@@ -759,32 +794,32 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/cross-entropy-loss/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/nosity-labels/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/robust-training/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zaiyi-chen/</loc>
-    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+    <lastmod>2020-09-14T16:17:12+08:00</lastmod>
   </url>
   
   <url>

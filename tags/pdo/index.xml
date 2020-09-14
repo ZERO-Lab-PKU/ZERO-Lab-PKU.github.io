@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Normalized Loss Functions for Deep Learning with Noisy Labels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_normalized_loss_functions_for_deep_learning_with_noisy_labels/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_normalized_loss_functions_for_deep_learning_with_noisy_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PDO-eConvs: Partial Differential Operator Based Equivariant Convolutions</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml20_pdo-econvs_partial_differential_operator_based_equivariant_convolutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</guid>
       <description></description>
     </item>
     

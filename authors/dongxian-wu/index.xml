@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongxian Wu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongxian Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Dongxian Wu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/</link>
+    </image>
+    
+    <item>
+      <title>Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
