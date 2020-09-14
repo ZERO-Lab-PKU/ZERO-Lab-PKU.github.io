@@ -99,7 +99,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2020-08-28T07:11:36+08:00</lastmod>
+    <lastmod>2020-09-14T15:46:38+08:00</lastmod>
   </url>
   
   <url>
@@ -553,6 +553,56 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/adversarial-defense/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/adversarial-training/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/james-bailey/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/robustness/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/xingjun-ma/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
+    <lastmod>2019-12-20T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/helingshen/jsc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o_1k_nonergodic_analy/</loc>
     <lastmod>2020-07-04T20:06:38+08:00</lastmod>
   </url>
@@ -705,6 +755,36 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/iccv19/</loc>
     <lastmod>2020-02-27T21:52:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/cross-entropy-loss/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/nosity-labels/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/tags/robust-training/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zaiyi-chen/</loc>
+    <lastmod>2019-07-23T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -3583,11 +3663,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/tags/robustness/</loc>
-    <lastmod>2019-12-03T21:58:09+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/sampling-methods/</loc>
     <lastmod>2019-12-03T21:58:09+08:00</lastmod>
   </url>
@@ -4869,6 +4944,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/wangyisen/</loc>
+    <lastmod>2020-09-14T15:46:38+08:00</lastmod>
   </url>
   
   <url>
@@ -5203,6 +5279,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/wangyisen/</loc>
+    <lastmod>2020-09-14T15:46:38+08:00</lastmod>
   </url>
   
   <url>
@@ -5331,7 +5408,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/</loc>
-    <lastmod>2020-08-28T07:11:36+08:00</lastmod>
+    <lastmod>2020-09-14T15:46:38+08:00</lastmod>
   </url>
   
   <url>

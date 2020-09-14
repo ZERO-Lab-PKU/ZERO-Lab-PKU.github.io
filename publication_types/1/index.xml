@@ -109,10 +109,26 @@
     </item>
     
     <item>
+      <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>L1-Norm Heteroscedastic Discriminant Analysis under Mixture of Gaussian Distributions </title>
       <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/helingshen/tnnls19_l1-norm_heteroscedastic_discriminant_analysis_under_mixture_of_gaussian_distributions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
       <description></description>
     </item>
     

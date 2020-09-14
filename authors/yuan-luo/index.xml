@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Luo | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yuan-luo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Luo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yuan Luo</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</link>
+    </image>
+    
+    <item>
+      <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
