@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misclassified Examples | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/misclassified-examples/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/misclassified-examples/index.xml" rel="self" type="application/rss+xml" />
+    <description>Misclassified Examples</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Misclassified Examples</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/misclassified-examples/</link>
+    </image>
+    
+    <item>
+      <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

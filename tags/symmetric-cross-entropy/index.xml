@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symmetric Cross Entropy | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/symmetric-cross-entropy/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/symmetric-cross-entropy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Symmetric Cross Entropy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Symmetric Cross Entropy</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/symmetric-cross-entropy/</link>
+    </image>
+    
+    <item>
+      <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

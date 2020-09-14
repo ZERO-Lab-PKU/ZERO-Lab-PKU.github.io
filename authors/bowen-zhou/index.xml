@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bowen Zhou | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/bowen-zhou/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/bowen-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bowen Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Bowen Zhou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/bowen-zhou/</link>
+    </image>
+    
+    <item>
+      <title>On the Convergence and Robustness of Adversarial Training</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

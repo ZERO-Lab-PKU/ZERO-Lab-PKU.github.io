@@ -171,6 +171,14 @@
     </item>
     
     <item>
+      <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Skip Connections Matter: On the Transferability of Adversarial Examples Generated with ResNets</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_skip_connections_matter_on_the_transferability_of_adversarial_examples_generated_with_resnets/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
@@ -251,14 +259,6 @@
     </item>
     
     <item>
-      <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Accelerated Alternating Direction Method of Multipliers:An Optimal O(1/K) Nonergodic Analysis</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/helingshen/jsc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o_1k_nonergodic_analy/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0800</pubDate>
@@ -323,18 +323,18 @@
     </item>
     
     <item>
-      <title>Two papers were accepted by ICCV 2019!</title>
-      <link>https://ZERO-Lab-PKU.github.io/post/iccv19/</link>
-      <pubDate>Tue, 23 Jul 2019 07:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/post/iccv19/</guid>
+      <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
-      <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
+      <title>Two papers were accepted by ICCV 2019!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/iccv19/</link>
+      <pubDate>Tue, 23 Jul 2019 07:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/iccv19/</guid>
       <description></description>
     </item>
     
@@ -455,6 +455,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2020/sc19_accelerated_alternating_direction_method_of_multipliers_an_optimal_o1k_nonergodic_analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence and Robustness of Adversarial Training</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</guid>
       <description></description>
     </item>
     

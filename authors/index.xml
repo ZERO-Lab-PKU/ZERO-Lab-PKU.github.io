@@ -301,10 +301,34 @@
     </item>
     
     <item>
+      <title>Difan Zou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dongxian Wu</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/dongxian-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinfeng Yi</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quanquan Gu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</guid>
       <description></description>
     </item>
     
@@ -429,30 +453,6 @@
     </item>
     
     <item>
-      <title>Difan Zou</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jinfeng Yi</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quanquan Gu</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/quanquan-gu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://ZERO-Lab-PKU.github.io/authors/lixia/</link>
       <pubDate>Fri, 01 Nov 2019 13:35:00 +0800</pubDate>
@@ -571,7 +571,7 @@
     <item>
       <title>Yuan Luo</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/yuan-luo/</guid>
       <description></description>
     </item>
@@ -579,7 +579,7 @@
     <item>
       <title>Zaiyi Chen</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zaiyi-chen/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/zaiyi-chen/</guid>
       <description></description>
     </item>
@@ -797,6 +797,14 @@
       <link>https://ZERO-Lab-PKU.github.io/authors/hantao-guo/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/hantao-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bowen Zhou</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/bowen-zhou/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/authors/bowen-zhou/</guid>
       <description></description>
     </item>
     
@@ -2567,13 +2575,13 @@ In Lin&amp;rsquo;s lab, conducting pure, interesting and cool research will enco
       <link>https://ZERO-Lab-PKU.github.io/authors/wangyisen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/authors/wangyisen/</guid>
-      <description>&lt;p&gt;I am a Tenure-track Assistant Professor (Ph.D. Advisor) in Department of Machine Intelligence, School of Electronics Engineering and Computer Science (EECS), Peking University. I am also a faculty member of &lt;a href=&#34;https://zero-lab-pku.github.io/&#34;&gt;ZERO Lab at Peking University&lt;/a&gt; led by &lt;a href=&#34;https://zhouchenlin.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Tenure-track Assistant Professor (Ph.D. Advisor) in Department of Machine Intelligence, School of Electronics Engineering and Computer Science (EECS), &lt;a href=&#34;https://www.pku.edu.cn&#34;&gt;Peking University&lt;/a&gt;. I am also a faculty member of &lt;a href=&#34;https://zero-lab-pku.github.io/&#34;&gt;ZERO Lab at Peking University&lt;/a&gt; led by &lt;a href=&#34;https://zhouchenlin.github.io/&#34; target=&#34;_blank&#34;&gt;Prof. Zhouchen Lin&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;I got my Ph.D. degree from Department of Computer Science and Technology, Tsinghua University. I have visited Georgia Tech, USA, hosted by &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34; target=&#34;_blank&#34;&gt;Prof. Le Song&lt;/a&gt; and &lt;a href=&#34;https://www.cc.gatech.edu/~zha/&#34; target=&#34;_blank&#34;&gt;Prof. Hongyuan Zha&lt;/a&gt;, and The University of Melbourne, Australia, hosted by &lt;a href=&#34;https://people.eng.unimelb.edu.au/baileyj/&#34; target=&#34;_blank&#34;&gt;Prof. James Bailey&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I got my Ph.D. degree from Department of Computer Science and Technology, &lt;a href=&#34;https://www.tsinghua.edu.cn&#34;&gt;Tsinghua University&lt;/a&gt;. I have visited Georgia Tech, USA, hosted by &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34; target=&#34;_blank&#34;&gt;Prof. Le Song&lt;/a&gt; and &lt;a href=&#34;https://www.cc.gatech.edu/~zha/&#34; target=&#34;_blank&#34;&gt;Prof. Hongyuan Zha&lt;/a&gt;, and The University of Melbourne, Australia, hosted by &lt;a href=&#34;https://people.eng.unimelb.edu.au/baileyj/&#34; target=&#34;_blank&#34;&gt;Prof. James Bailey&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;My research interests broadly include the theory and applications of machine learning and deep learning. Please check my recent publications to know more.&lt;/p&gt;
 
-&lt;p&gt;We are always actively recruiting postdocs, interns and prospective graduate students! Welcome to send me your detailed CV and Research Statement!&lt;/p&gt;
+&lt;p&gt;We are always actively recruiting &lt;b&gt;postdocs&lt;/b&gt;, &lt;b&gt;interns&lt;/b&gt; and prospective &lt;b&gt;graduate students&lt;/b&gt;! Welcome to send me your detailed CV and Research Statement!&lt;/p&gt;
 </description>
     </item>
     

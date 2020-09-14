@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jinfeng-yi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinfeng Yi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Jinfeng Yi</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</guid>
       <description></description>
     </item>
@@ -23,8 +23,16 @@
     <item>
       <title>Symmetric Cross Entropy for Robust Learning with Noisy Labels</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2020/iccv19_symmetric_cross_entropy_for_robust_learning_with_noisy_labels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Convergence and Robustness of Adversarial Training</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0800</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/icml19_on_the_convergence_and_robustness_of_adversarial_training/</guid>
       <description></description>
     </item>
     
