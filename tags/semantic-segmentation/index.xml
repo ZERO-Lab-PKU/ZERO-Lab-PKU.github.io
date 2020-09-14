@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semantic Segmentation | ZERO Lab</title>
+    <title>Semantic segmentation | ZERO Lab</title>
     <link>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    <description>Semantic Segmentation</description>
+    <description>Semantic segmentation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
-      <title>Semantic Segmentation</title>
+      <title>Semantic segmentation</title>
       <link>https://ZERO-Lab-PKU.github.io/tags/semantic-segmentation/</link>
     </image>
     
