@@ -5,12 +5,60 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhouchen Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhouchen Lin</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
     </image>
+    
+    <item>
+      <title>AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_adagcn_adaboosting_graph_convolutional_networks_into_deep_models/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_adagcn_adaboosting_graph_convolutional_networks_into_deep_models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Attention Better Than Matrix Decomposition?</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_is_attention_better_than_matrix_decomposition/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_is_attention_better_than_matrix_decomposition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDO-eS2CNNs: Partial Differential Operator Based Equivariant Spherical CNNs</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_pdo-es2cnns_partial_differential_operator_based_equivariant_spherical_cnns/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_pdo-es2cnns_partial_differential_operator_based_equivariant_spherical_cnns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks by Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/tpami20_training_neural_networks_by_lifted_proximal_operator_machines/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/tpami20_training_neural_networks_by_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISTA-NAS: Efficient and Consistent Neural Architecture Search by Sparse Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/neurips20_ista-nas_efficient_and_consisten_neural_architecture_search_by_sparse_coding/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/neurips20_ista-nas_efficient_and_consisten_neural_architecture_search_by_sparse_coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Accelerated Gradient Methods With Increasing Penalty Parameters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Semantic Segmentation via Decoupled Body and Edge Supervision</title>

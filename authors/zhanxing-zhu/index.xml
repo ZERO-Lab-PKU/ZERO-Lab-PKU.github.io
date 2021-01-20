@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhanxing Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhanxing Zhu</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/</link>
     </image>
+    
+    <item>
+      <title>AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_adagcn_adaboosting_graph_convolutional_networks_into_deep_models/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_adagcn_adaboosting_graph_convolutional_networks_into_deep_models/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labeled Nodes</title>

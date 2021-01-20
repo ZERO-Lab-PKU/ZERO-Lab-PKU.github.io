@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/fei-wang/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/fei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Fei Wang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/fei-wang/</link>
     </image>
+    
+    <item>
+      <title>ISTA-NAS: Efficient and Consistent Neural Architecture Search by Sparse Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/neurips20_ista-nas_efficient_and_consisten_neural_architecture_search_by_sparse_coding/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/neurips20_ista-nas_efficient_and_consisten_neural_architecture_search_by_sparse_coding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Comprehensive Correlation Mining for Image Clustering</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ke Wei | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/ke-wei/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/ke-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ke Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Ke Wei</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/ke-wei/</link>
+    </image>
+    
+    <item>
+      <title>Is Attention Better Than Matrix Decomposition?</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_is_attention_better_than_matrix_decomposition/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_is_attention_better_than_matrix_decomposition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

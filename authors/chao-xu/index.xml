@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chao Xu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/chao-xu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/chao-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chao Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Chao Xu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/chao-xu/</link>
+    </image>
+    
+    <item>
+      <title>Training Neural Networks by Lifted Proximal Operator Machines</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/tpami20_training_neural_networks_by_lifted_proximal_operator_machines/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/tpami20_training_neural_networks_by_lifted_proximal_operator_machines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

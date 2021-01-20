@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiancheng Shen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Tiancheng Shen</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/tiancheng-shen/</link>
     </image>
+    
+    <item>
+      <title>PDO-eS2CNNs: Partial Differential Operator Based Equivariant Spherical CNNs</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_pdo-es2cnns_partial_differential_operator_based_equivariant_spherical_cnns/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_pdo-es2cnns_partial_differential_operator_based_equivariant_spherical_cnns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial Pyramid Based Graph Reasoning for Semantic Segmentation</title>

@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/huan-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Huan Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 08:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Huan Li</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/huan-li/</link>
     </image>
+    
+    <item>
+      <title>Decentralized Accelerated Gradient Methods With Increasing Penalty Parameters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accelerated First-Order Optimization Algorithms for Machine Learning</title>

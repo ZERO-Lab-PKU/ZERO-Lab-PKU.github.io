@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimal (sub)gradient computation complexity | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/optimal-subgradient-computation-complexity/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/optimal-subgradient-computation-complexity/index.xml" rel="self" type="application/rss+xml" />
+    <description>optimal (sub)gradient computation complexity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>optimal (sub)gradient computation complexity</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/optimal-subgradient-computation-complexity/</link>
+    </image>
+    
+    <item>
+      <title>Decentralized Accelerated Gradient Methods With Increasing Penalty Parameters</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2020/ieeetsignalprocessing20_decentralized_accelerated_gradient_methods_with_increasing_penalty_parameters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

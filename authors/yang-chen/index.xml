@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Chen | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yang-chen/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yang Chen</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yang-chen/</link>
+    </image>
+    
+    <item>
+      <title>One paper was accepted by AAAI 2021!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/aaai21/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/aaai21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers were accepted by ICLR 2021!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/iclr21/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/iclr21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by IEEE T. Signal Processing!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/ieeetsp20/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/ieeetsp20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted by TPAMI 2020!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/tpami20/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/tpami20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers were accepted by NeurIPS 2020!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/neurips20/</link>
+      <pubDate>Sun, 17 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/neurips20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
