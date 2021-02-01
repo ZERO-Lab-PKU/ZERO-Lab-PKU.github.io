@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unlearnable examples | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/tags/unlearnable-examples/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/tags/unlearnable-examples/index.xml" rel="self" type="application/rss+xml" />
+    <description>unlearnable examples</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>unlearnable examples</title>
+      <link>https://ZERO-Lab-PKU.github.io/tags/unlearnable-examples/</link>
+    </image>
+    
+    <item>
+      <title>Unlearnable Examples: Making Personal Data Unexploitable</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_unlearnable_examples_making_personal_data_unexploitable/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_unlearnable_examples_making_personal_data_unexploitable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

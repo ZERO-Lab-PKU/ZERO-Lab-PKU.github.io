@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/fanhua-shang/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/fanhua-shang/index.xml" rel="self" type="application/rss+xml" />
     <description>Fanhua Shang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Fanhua Shang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/fanhua-shang/</link>
     </image>
+    
+    <item>
+      <title>Learned Extragradient ISTA with Interpretable Residual Structures for Sparse Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_learned_extragradient_ista_with_interpretable_residual_structures_for_sparse_coding/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_learned_extragradient_ista_with_interpretable_residual_structures_for_sparse_coding/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications</title>

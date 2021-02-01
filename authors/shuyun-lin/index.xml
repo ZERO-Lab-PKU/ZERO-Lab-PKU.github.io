@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuyun Lin | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/shuyun-lin/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/shuyun-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuyun Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Shuyun Lin</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/shuyun-lin/</link>
+    </image>
+    
+    <item>
+      <title>Towards A Unified Understanding and Improving of Adversarial Transferability</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_towards_a_unified_understanding_and_improving_of_adversarial_transferability/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_towards_a_unified_understanding_and_improving_of_adversarial_transferability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

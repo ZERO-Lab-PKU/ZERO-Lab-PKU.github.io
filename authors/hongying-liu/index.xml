@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongying Liu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/hongying-liu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/hongying-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongying Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Hongying Liu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/hongying-liu/</link>
+    </image>
+    
+    <item>
+      <title>Learned Extragradient ISTA with Interpretable Residual Structures for Sparse Coding</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_learned_extragradient_ista_with_interpretable_residual_structures_for_sparse_coding/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/aaai21_learned_extragradient_ista_with_interpretable_residual_structures_for_sparse_coding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
