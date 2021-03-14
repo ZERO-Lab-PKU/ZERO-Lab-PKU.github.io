@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -55,6 +55,22 @@
     </item>
     
     <item>
+      <title>PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_pointflow_flowing_semantics_through_points_for_aerial_image_segmentation/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_pointflow_flowing_semantics_through_points_for_aerial_image_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_towards_improving_the_consistency_efficiency_and_flexibility_of_differentiable_neural_architecture_search/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_towards_improving_the_consistency_efficiency_and_flexibility_of_differentiable_neural_architecture_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_adagcn_adaboosting_graph_convolutional_networks_into_deep_models/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
@@ -91,6 +107,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_unlearnable_examples_making_personal_data_unexploitable/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2021/iclr21_unlearnable_examples_making_personal_data_unexploitable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two papers was accepted by CVPR 2021!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/cvpr21/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/cvpr21/</guid>
       <description></description>
     </item>
     

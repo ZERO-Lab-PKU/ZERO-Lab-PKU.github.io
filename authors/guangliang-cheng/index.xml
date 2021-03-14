@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/guangliang-cheng/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/guangliang-cheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Guangliang Cheng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 08:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Guangliang Cheng</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/guangliang-cheng/</link>
     </image>
+    
+    <item>
+      <title>PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_pointflow_flowing_semantics_through_points_for_aerial_image_segmentation/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_pointflow_flowing_semantics_through_points_for_aerial_image_segmentation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Semantic Segmentation via Decoupled Body and Edge Supervision</title>
