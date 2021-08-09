@@ -5,12 +5,29 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/yang-chen/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yang-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Yang Chen</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/yang-chen/</link>
     </image>
+    
+    <item>
+      <title>Huan Li won ACM China Excellent Doctoral Dissertation Award!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/lihuan21/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/lihuan21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper won the Silver Best Paper Award in the Adversarial Machine Learning Workshop at ICML 2021!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/wangyifei21/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/wangyifei21/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://openreview.net/forum?id=U0TCTe68s41&#34;&gt;Demystifying Adversarial Training via A Unified Probabilistic Framework&lt;/a&gt; by Yifei Wang, Yisen Wang, Jiansheng Yang and Zhouchen Lin won the Silver Best Paper Award in the Adversarial Machine Learning Workshop at ICML 2021!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Four papers were accepted by ICML 2021! Two are oral!</title>
