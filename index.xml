@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -79,6 +79,14 @@
     </item>
     
     <item>
+      <title>Our paper won the Best (Student) Machine Learning Paper Award at ECML 2021!</title>
+      <link>https://ZERO-Lab-PKU.github.io/post/ecml21_best/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/post/ecml21_best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Huan Li won 2020 ACM SIGAI China Excellent Doctoral Dissertation Award!</title>
       <link>https://ZERO-Lab-PKU.github.io/post/lihuan21/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
@@ -87,7 +95,7 @@
     </item>
     
     <item>
-      <title>One paper won the Silver Best Paper Award in the Adversarial Machine Learning Workshop at ICML 2021!</title>
+      <title>Our paper won the Silver Best Paper Award in the Adversarial Machine Learning Workshop at ICML 2021!</title>
       <link>https://ZERO-Lab-PKU.github.io/post/wangyifei21/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/post/wangyifei21/</guid>
