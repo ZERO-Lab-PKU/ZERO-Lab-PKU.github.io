@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>信科学生会 （大信科） | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/%E4%BF%A1%E7%A7%91%E5%AD%A6%E7%94%9F%E4%BC%9A-%E5%A4%A7%E4%BF%A1%E7%A7%91/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/%E4%BF%A1%E7%A7%91%E5%AD%A6%E7%94%9F%E4%BC%9A-%E5%A4%A7%E4%BF%A1%E7%A7%91/index.xml" rel="self" type="application/rss+xml" />
+    <description>信科学生会 （大信科）</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>信科学生会 （大信科）</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/%E4%BF%A1%E7%A7%91%E5%AD%A6%E7%94%9F%E4%BC%9A-%E5%A4%A7%E4%BF%A1%E7%A7%91/</link>
+    </image>
+    
+    <item>
+      <title>学术 | 走进实验室： 林宙辰教授专访</title>
+      <link>https://ZERO-Lab-PKU.github.io/report/20191222/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/report/20191222/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/Lzr9jQUS2g4CAhs9i2rEjw&#34;&gt;VIEW THE REPORT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

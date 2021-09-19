@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -79,6 +79,15 @@
     </item>
     
     <item>
+      <title>北大林宙辰：追求机器学习研究的美感</title>
+      <link>https://ZERO-Lab-PKU.github.io/report/20210917/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/report/20210917/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/VOeAAE3YTzQbdTOoFZOJAg&#34;&gt;VIEW THE REPORT&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Our paper won the Best (Student) Machine Learning Paper Award at ECML 2021!</title>
       <link>https://ZERO-Lab-PKU.github.io/post/ecml21_best/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
@@ -100,6 +109,15 @@
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/post/wangyifei21/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://openreview.net/forum?id=U0TCTe68s41&#34;&gt;Demystifying Adversarial Training via A Unified Probabilistic Framework&lt;/a&gt; by Yifei Wang, Yisen Wang, Jiansheng Yang and Zhouchen Lin won the Silver Best Paper Award in the Adversarial Machine Learning Workshop at ICML 2021!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>跨界教授林宙辰：从北大来，回北大去</title>
+      <link>https://ZERO-Lab-PKU.github.io/report/20210809/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/report/20210809/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.toutiao.com/i6994351751247725067/?tt_from=weixin&amp;amp;utm_campaign=client_share&amp;amp;wxshare_count=5&amp;amp;timestamp=1628521770&amp;amp;app=news_article&amp;amp;utm_source=weixin&amp;amp;utm_medium=toutiao_android&amp;amp;use_new_style=1&amp;amp;req_id=202108092309300101351550381F0A4FD2&amp;amp;share_token=6b29823a-09f3-49d6-944f-9601a370f4a8&amp;amp;group_id=6994351751247725067&amp;amp;wid=1632018992070&#34;&gt;VIEW THE REPORT&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -453,6 +471,15 @@
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>学术 | 走进实验室： 林宙辰教授专访</title>
+      <link>https://ZERO-Lab-PKU.github.io/report/20191222/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/report/20191222/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/Lzr9jQUS2g4CAhs9i2rEjw&#34;&gt;VIEW THE REPORT&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
