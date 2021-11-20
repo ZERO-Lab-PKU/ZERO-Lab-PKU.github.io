@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhengyang-geng/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhengyang-geng/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengyang Geng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhengyang Geng</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhengyang-geng/</link>
     </image>
+    
+    <item>
+      <title>Residual Relaxation for Multi-view Representation Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Is Attention Better Than Matrix Decomposition?</title>

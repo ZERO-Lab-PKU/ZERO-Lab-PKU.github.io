@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Reparameterized Sampling for Generative Adversarial Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Adversarial Training via A Unified Probabilistic Framework</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_pointflow_flowing_semantics_through_points_for_aerial_image_segmentation/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
@@ -25,6 +41,30 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_towards_improving_the_consistency_efficiency_and_flexibility_of_differentiable_neural_architecture_search/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2021/cvpr21_towards_improving_the_consistency_efficiency_and_flexibility_of_differentiable_neural_architecture_search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting the Diffusion Process in Linear Graph Convolutional Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauge Equivariant Transformer</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Relaxation for Multi-view Representation Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yifei Wang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yifei-wang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yifei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yifei Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yifei Wang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yifei-wang/</link>
+    </image>
+    
+    <item>
+      <title>Reparameterized Sampling for Generative Adversarial Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demystifying Adversarial Training via A Unified Probabilistic Framework</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting the Diffusion Process in Linear Graph Convolutional Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Relaxation for Multi-view Representation Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

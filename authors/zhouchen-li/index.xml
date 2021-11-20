@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhouchen Li | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-li/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhouchen-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhouchen Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Zhouchen Li</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-li/</link>
+    </image>
+    
+    <item>
+      <title>Dissecting the Diffusion Process in Linear Graph Convolutional Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Relaxation for Multi-view Representation Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

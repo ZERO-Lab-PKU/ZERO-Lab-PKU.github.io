@@ -55,30 +55,6 @@
     </item>
     
     <item>
-      <title>Curriculum Vitae</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/dongyiming/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/dongyiming/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic Acativities</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/dongyiming/activities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/dongyiming/activities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Awards</title>
-      <link>https://ZERO-Lab-PKU.github.io/authors/dongyiming/accomplishments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/authors/dongyiming/accomplishments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>北大林宙辰：追求机器学习研究的美感</title>
       <link>https://ZERO-Lab-PKU.github.io/report/20210917/</link>
       <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
@@ -92,6 +68,14 @@
       <link>https://ZERO-Lab-PKU.github.io/post/ecml21_best/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/post/ecml21_best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reparameterized Sampling for Generative Adversarial Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</guid>
       <description></description>
     </item>
     
@@ -119,6 +103,14 @@
       <guid>https://ZERO-Lab-PKU.github.io/report/20210809/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.toutiao.com/i6994351751247725067/?tt_from=weixin&amp;amp;utm_campaign=client_share&amp;amp;wxshare_count=5&amp;amp;timestamp=1628521770&amp;amp;app=news_article&amp;amp;utm_source=weixin&amp;amp;utm_medium=toutiao_android&amp;amp;use_new_style=1&amp;amp;req_id=202108092309300101351550381F0A4FD2&amp;amp;share_token=6b29823a-09f3-49d6-944f-9601a370f4a8&amp;amp;group_id=6994351751247725067&amp;amp;wid=1632018992070&#34;&gt;VIEW THE REPORT&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Demystifying Adversarial Training via A Unified Probabilistic Framework</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -158,6 +150,30 @@
       <link>https://ZERO-Lab-PKU.github.io/post/sigir21/</link>
       <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/post/sigir21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissecting the Diffusion Process in Linear Graph Convolutional Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauge Equivariant Transformer</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Relaxation for Multi-view Representation Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</guid>
       <description></description>
     </item>
     
@@ -2557,6 +2573,14 @@ Three
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/houguyu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/houguyu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/personwise/houyuqing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/houyuqing/</guid>
@@ -2632,6 +2656,14 @@ Three
       <link>https://ZERO-Lab-PKU.github.io/personwise/kouyiwen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/kouyiwen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/liangyitao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/liangyitao/</guid>
       <description></description>
     </item>
     
@@ -2717,9 +2749,25 @@ Three
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/liuyuanshi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/liuyuanshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/personwise/lixia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/lixia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/liyikang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/liyikang/</guid>
       <description></description>
     </item>
     
@@ -2917,6 +2965,14 @@ Three
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yangtong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yangtong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/personwise/yangyibo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/yangyibo/</guid>
@@ -2952,6 +3008,14 @@ Three
       <link>https://ZERO-Lab-PKU.github.io/personwise/yinming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/yinming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/yuepengyun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/yuepengyun/</guid>
       <description></description>
     </item>
     
@@ -3016,14 +3080,6 @@ Three
       <link>https://ZERO-Lab-PKU.github.io/personwise/zhouyou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/zhouyou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ZERO-Lab-PKU.github.io/personwise/zhouzhenyu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ZERO-Lab-PKU.github.io/personwise/zhouzhenyu/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/lingshen-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Lingshen He</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Lingshen He</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</link>
     </image>
+    
+    <item>
+      <title>Gauge Equivariant Transformer</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Implicit Euler Skip Connections: Enhancing Adversarial Robustness via Numerical Stability</title>

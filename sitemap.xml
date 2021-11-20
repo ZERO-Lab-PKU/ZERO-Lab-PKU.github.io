@@ -18,33 +18,13 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/dongyiming/experience/</loc>
-    <lastmod>2021-09-12T09:48:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/dongyiming/activities/</loc>
-    <lastmod>2021-09-12T09:48:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/dongyiming/accomplishments/</loc>
-    <lastmod>2021-09-12T09:48:19+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2021-10-30T10:36:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2021-10-30T10:36:32+08:00</lastmod>
+    <lastmod>2021-11-11T18:03:29+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2021-10-30T10:36:32+08:00</lastmod>
+    <lastmod>2021-11-11T18:03:29+08:00</lastmod>
   </url>
   
   <url>
@@ -68,6 +48,41 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/jiansheng-yang/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/ecml-pkdd21_reparameterized_sampling_for_generative_adversarial_networks/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yifei-wang/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
+    <lastmod>2021-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/lihuan21/</loc>
     <lastmod>2021-08-09T16:13:34+08:00</lastmod>
   </url>
@@ -88,8 +103,8 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
-    <lastmod>2021-03-14T11:29:36+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/icml21_demystifying_adversarial_training_via_a_unified_probabilistic_framework/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +153,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
-    <lastmod>2021-03-14T11:29:36+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/shan-you/</loc>
     <lastmod>2021-03-14T11:29:36+08:00</lastmod>
   </url>
@@ -173,11 +183,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
-    <lastmod>2021-03-14T11:29:36+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/icml21/</loc>
     <lastmod>2021-06-16T17:29:58+08:00</lastmod>
   </url>
@@ -190,6 +195,56 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/sigir21/</loc>
     <lastmod>2021-06-16T17:29:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/chuming-li/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/dacheng-tao/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/feng-jiang/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_residual_relaxation_for_multi-view_representation_learning/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yiming-dong/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhengyang-geng/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-li/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -358,11 +413,6 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
-    <lastmod>2021-02-01T11:27:11+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yong-jiang/</loc>
     <lastmod>2021-02-01T11:27:11+08:00</lastmod>
   </url>
@@ -374,11 +424,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhanxing-zhu/</loc>
-    <lastmod>2021-01-20T18:36:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhengyang-geng/</loc>
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url>
   
@@ -774,11 +819,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/jianlong-wu/</loc>
-    <lastmod>2020-07-14T15:34:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</loc>
     <lastmod>2020-07-14T15:34:14+08:00</lastmod>
   </url>
   
@@ -5204,7 +5244,11 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/helingshen/</loc>
-    <lastmod>2020-08-15T20:55:30+08:00</lastmod>
+    <lastmod>2021-11-11T18:03:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/houguyu/</loc>
   </url>
   
   <url>
@@ -5263,6 +5307,10 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/liangyitao/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/lifengcai/</loc>
     <lastmod>2020-08-15T23:48:38+08:00</lastmod>
   </url>
@@ -5313,8 +5361,16 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/liuyuanshi/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/lixia/</loc>
     <lastmod>2020-08-15T23:48:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/liyikang/</loc>
   </url>
   
   <url>
@@ -5438,6 +5494,10 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yangtong/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yangyibo/</loc>
     <lastmod>2019-12-05T23:14:15+08:00</lastmod>
   </url>
@@ -5460,6 +5520,10 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yinming/</loc>
     <lastmod>2019-12-05T23:14:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yuepengyun/</loc>
   </url>
   
   <url>
@@ -5500,11 +5564,6 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhouyou/</loc>
     <lastmod>2019-12-05T23:14:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhouzhenyu/</loc>
-    <lastmod>2021-01-29T16:25:53+08:00</lastmod>
   </url>
   
   <url>
@@ -5583,6 +5642,10 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/houguyu/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/houyuqing/</loc>
     <lastmod>2019-12-02T20:45:29+08:00</lastmod>
   </url>
@@ -5630,6 +5693,10 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/kouyiwen/</loc>
     <lastmod>2020-08-28T07:11:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/liangyitao/</loc>
   </url>
   
   <url>
@@ -5683,8 +5750,16 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/liuyuanshi/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/lixia/</loc>
     <lastmod>2019-11-25T12:49:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/liyikang/</loc>
   </url>
   
   <url>
@@ -5808,6 +5883,10 @@
   </url>
   
   <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/yangtong/</loc>
+  </url>
+  
+  <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/yangyibo/</loc>
     <lastmod>2019-11-25T22:54:03+08:00</lastmod>
   </url>
@@ -5830,6 +5909,10 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/yinming/</loc>
     <lastmod>2019-12-03T20:03:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/yuepengyun/</loc>
   </url>
   
   <url>
@@ -5870,11 +5953,6 @@
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/zhouyou/</loc>
     <lastmod>2019-12-02T20:45:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/personwise/zhouzhenyu/</loc>
-    <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url>
   
   <url>

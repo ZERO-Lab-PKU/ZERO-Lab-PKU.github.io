@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dacheng Tao | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/dacheng-tao/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/dacheng-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dacheng Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Dacheng Tao</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/dacheng-tao/</link>
+    </image>
+    
+    <item>
+      <title>Gauge Equivariant Transformer</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_gauge_equivariant_transformer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
