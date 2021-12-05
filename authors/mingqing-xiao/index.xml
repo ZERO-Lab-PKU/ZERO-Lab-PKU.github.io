@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/mingqing-xiao/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/mingqing-xiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingqing Xiao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Mingqing Xiao</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/mingqing-xiao/</link>
     </image>
+    
+    <item>
+      <title>Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_training_feedback_spiking_neural_networks_by_implicit_differentiation_on_the_equilibrium_state/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_training_feedback_spiking_neural_networks_by_implicit_differentiation_on_the_equilibrium_state/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Training Neural Networks by Lifted Proximal Operator Machines</title>
