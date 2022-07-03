@@ -23,47 +23,72 @@
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-07-02T13:30:48+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/mingqing-xiao/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/publication_types/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/qingyan-meng/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_training_feedback_spiking_neural_networks_by_implicit_differentiation_on_the_equilibrium_state/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/shen-yan/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2021-12-05T13:37:43+08:00</lastmod>
+    <lastmod>2022-07-02T13:30:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/zhi-quan-luo/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/1/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_training_feedback_spiking_neural_networks_by_implicit_differentiation_on_the_equilibrium_state/</loc>
     <lastmod>2021-12-05T13:37:43+08:00</lastmod>
   </url>
   
@@ -529,11 +554,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/post/neurips20/</loc>
-    <lastmod>2021-01-20T18:36:17+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url>
   
@@ -2189,11 +2209,6 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yameng-huang/</loc>
-    <lastmod>2019-12-03T20:03:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/zhi-quan-luo/</loc>
     <lastmod>2019-12-03T20:03:37+08:00</lastmod>
   </url>
   
@@ -5254,7 +5269,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/guoxiaojun/</loc>
-    <lastmod>2021-01-29T16:25:53+08:00</lastmod>
+    <lastmod>2022-07-02T13:30:48+08:00</lastmod>
   </url>
   
   <url>
@@ -5519,7 +5534,7 @@
   
   <url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/yanghaotong/</loc>
-    <lastmod>2021-01-29T16:25:53+08:00</lastmod>
+    <lastmod>2022-07-02T13:30:48+08:00</lastmod>
   </url>
   
   <url>

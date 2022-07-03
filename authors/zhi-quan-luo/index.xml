@@ -5,12 +5,28 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhi-quan-luo/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhi-quan-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhi-Quan Luo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhi-Quan Luo</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhi-quan-luo/</link>
     </image>
+    
+    <item>
+      <title>Training Much Deeper Spiking Neural Networks with a Small Number of Time-Steps</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training High-Performance Low-Latency Spiking Neural Networks by Differentiation on Spike Representation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bilinear Factor Matrix Norm Minimization for Robust PCA: Algorithms and Applications</title>

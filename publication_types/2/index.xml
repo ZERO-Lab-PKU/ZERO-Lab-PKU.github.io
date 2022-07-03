@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/publication_types/2/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://ZERO-Lab-PKU.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Training Much Deeper Spiking Neural Networks with a Small Number of Time-Steps</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Training Neural Networks by Lifted Proximal Operator Machines</title>
