@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/jiansheng-yang/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/jiansheng-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiansheng Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Jiansheng Yang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/jiansheng-yang/</link>
     </image>
+    
+    <item>
+      <title>Optimization-induced Implicit Graph Diffusion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reparameterized Sampling for Generative Adversarial Networks</title>

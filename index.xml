@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -59,6 +59,14 @@
       <link>https://ZERO-Lab-PKU.github.io/personwise/muhanzhang/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/muhanzhang/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-induced Implicit Graph Diffusion</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</guid>
       <description></description>
     </item>
     
