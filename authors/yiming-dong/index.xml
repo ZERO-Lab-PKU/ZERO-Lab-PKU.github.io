@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yiming Dong* | ZERO Lab</title>
+    <title>Yiming Dong | ZERO Lab</title>
     <link>https://ZERO-Lab-PKU.github.io/authors/yiming-dong/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yiming-dong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yiming Dong*</description>
+    <description>Yiming Dong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
-      <title>Yiming Dong*</title>
+      <title>Yiming Dong</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/yiming-dong/</link>
     </image>
+    
+    <item>
+      <title>Efficient Equivariant Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gauge Equivariant Transformer</title>

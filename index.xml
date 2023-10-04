@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>ZERO Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>ZERO Lab</title>
@@ -59,6 +59,14 @@
       <link>https://ZERO-Lab-PKU.github.io/personwise/muhanzhang/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/muhanzhang/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/iclr23_neural-epdos-spatially-adaptive-equivariant-partial-differential-operator-based-networks/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/iclr23_neural-epdos-spatially-adaptive-equivariant-partial-differential-operator-based-networks/</guid>
       <description></description>
     </item>
     
@@ -198,6 +206,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Equivariant Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</guid>
       <description></description>
     </item>
     
@@ -818,10 +834,10 @@
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
-&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;:
-    &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -831,19 +847,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
-One
 &lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-Three
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -853,11 +861,11 @@ Three
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% speaker_note %}}
-&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
-&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -891,19 +899,19 @@ Three
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-image&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/img/boards.jpg&amp;#34;&lt;/span&gt; &amp;gt;}}
-{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &amp;gt;}}
-{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-image&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/img/boards.jpg&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;background-color&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#f92672&#34;&gt;slide&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;class&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
-.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
-  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -2541,6 +2549,14 @@ Three
     
     <item>
       <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/chenyuxuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/chenyuxuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ZERO-Lab-PKU.github.io/personwise/cuijingyi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/cuijingyi/</guid>
@@ -2840,6 +2856,14 @@ Three
       <link>https://ZERO-Lab-PKU.github.io/personwise/mengqingyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/personwise/mengqingyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ZERO-Lab-PKU.github.io/personwise/mujia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/personwise/mujia/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/chenyuxuan/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/chenyuxuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZERO Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>ZERO Lab</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/chenyuxuan/</link>
+    </image>
+    
+  </channel>
+</rss>

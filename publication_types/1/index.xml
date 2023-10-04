@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/publication_types/1/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://ZERO-Lab-PKU.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/iclr23_neural-epdos-spatially-adaptive-equivariant-partial-differential-operator-based-networks/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/iclr23_neural-epdos-spatially-adaptive-equivariant-partial-differential-operator-based-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimization-induced Implicit Graph Diffusion</title>
@@ -73,6 +81,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_dissecting_the_diffusion_process_in_linear_graph_convolutional_networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Equivariant Network</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_efficient_equivariant_network/</guid>
       <description></description>
     </item>
     
