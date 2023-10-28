@@ -21,10 +21,42 @@
     </item>
     
     <item>
+      <title>Restarted Nonconvex Accelerated Gradient Descent: No More Polylogarithmic Factor in the O(ε−7/4) Complexity</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2023_jmlr_restarted-nonconvex-accelerated-gradient-descent/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2023_jmlr_restarted-nonconvex-accelerated-gradient-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Lower Bound of Minimizing Polyak-Łojasiewicz Functions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_on-the-lower-bound-of-minimizing-polyak-%C5%82ojasiewicz-functions/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_on-the-lower-bound-of-minimizing-polyak-%C5%82ojasiewicz-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeroth-order Optimization with Weak Dimension Dependency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_zeroth-order-optimization-with-weak-dimension-dependency/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_zeroth-order-optimization-with-weak-dimension-dependency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optimization-induced Implicit Graph Diffusion</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2022/icml22_optimization-induced-implicit-graph-diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternating Direction Method of Multipliers for Machine Learning</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_springer_alternating-direction-method-of-multipliers-for-machine-learning/</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_springer_alternating-direction-method-of-multipliers-for-machine-learning/</guid>
       <description></description>
     </item>
     
@@ -41,6 +73,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</link>
       <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance Reduced EXTRA and DIGing and Their Optimal Acceleration for Strongly Convex Decentralized Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</guid>
       <description></description>
     </item>
     
@@ -269,6 +309,14 @@
     </item>
     
     <item>
+      <title>Accelerated Optimization for Machine Learning: First-Order Algorithms</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_springer_accelerated-optimization-for-machine-learning-first-order-algorithms/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_springer_accelerated-optimization-for-machine-learning-first-order-algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/iclr20_improving_adversarial_robustness_requires_revisiting_misclassified_examples/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0800</pubDate>
@@ -337,6 +385,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</link>
       <pubDate>Thu, 06 Feb 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting EXTRA for Smooth Distributed Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_siopt_-revisiting-extra-for-smooth-distributed-optimization/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_siopt_-revisiting-extra-for-smooth-distributed-optimization/</guid>
       <description></description>
     </item>
     

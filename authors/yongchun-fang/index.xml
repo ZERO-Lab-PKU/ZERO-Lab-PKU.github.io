@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongchun Fang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yongchun-fang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yongchun-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongchun Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yongchun Fang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yongchun-fang/</link>
+    </image>
+    
+    <item>
+      <title>Variance Reduced EXTRA and DIGing and Their Optimal Acceleration for Strongly Convex Decentralized Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

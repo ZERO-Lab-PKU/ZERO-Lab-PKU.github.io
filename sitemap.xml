@@ -18,7 +18,7 @@
     <lastmod>2023-10-09T11:33:06+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/</loc>
-    <lastmod>2023-10-24T15:21:17+08:00</lastmod>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/lingshen-he/</loc>
     <lastmod>2023-10-09T11:33:06+08:00</lastmod>
@@ -36,13 +36,37 @@
     <lastmod>2023-10-09T11:33:06+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/</loc>
-    <lastmod>2023-10-24T15:21:17+08:00</lastmod>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhenyang-shen/</loc>
     <lastmod>2023-10-09T11:33:06+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</loc>
     <lastmod>2023-10-09T11:33:06+08:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/huan-li/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2023_jmlr_restarted-nonconvex-accelerated-gradient-descent/</loc>
+    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/long-yang/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_on-the-lower-bound-of-minimizing-polyak-%C5%82ojasiewicz-functions/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/pengyun-yue/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_zeroth-order-optimization-with-weak-dimension-dependency/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/jiansheng-yang/</loc>
     <lastmod>2022-07-03T18:03:01+08:00</lastmod>
@@ -59,8 +83,11 @@
     <loc>https://ZERO-Lab-PKU.github.io/authors/yisen-wang/</loc>
     <lastmod>2023-10-04T15:36:12+08:00</lastmod>
   </url><url>
-    <loc>https://ZERO-Lab-PKU.github.io/publication_types/2/</loc>
-    <lastmod>2022-07-03T18:03:01+08:00</lastmod>
+    <loc>https://ZERO-Lab-PKU.github.io/publication_types/5/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_springer_alternating-direction-method-of-multipliers-for-machine-learning/</loc>
+    <lastmod>2022-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/mingqing-xiao/</loc>
     <lastmod>2022-07-03T18:03:01+08:00</lastmod>
@@ -79,6 +106,12 @@
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/2022/cvpr22_training-high-performance-low-latency-spiking-neural-networks-by-differentiation-on-spike-representation/</loc>
     <lastmod>2022-07-03T18:03:01+08:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/yongchun-fang/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/2021/nips21_training_feedback_spiking_neural_networks_by_implicit_differentiation_on_the_equilibrium_state/</loc>
     <lastmod>2021-12-05T13:37:43+08:00</lastmod>
@@ -362,9 +395,6 @@
     <loc>https://ZERO-Lab-PKU.github.io/authors/chao-xu/</loc>
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url><url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</loc>
-    <lastmod>2021-01-20T18:36:17+08:00</lastmod>
-  </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/jia-li/</loc>
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url><url>
@@ -399,9 +429,6 @@
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/distributed-accelerated-gradient-algorithms/</loc>
-    <lastmod>2021-01-20T18:36:17+08:00</lastmod>
-  </url><url>
-    <loc>https://ZERO-Lab-PKU.github.io/authors/huan-li/</loc>
     <lastmod>2021-01-20T18:36:17+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/tags/near-optimal-communication-complexity/</loc>
@@ -581,6 +608,9 @@
     <loc>https://ZERO-Lab-PKU.github.io/authors/yuchao-cai/</loc>
     <lastmod>2020-07-07T22:12:37+08:00</lastmod>
   </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_springer_accelerated-optimization-for-machine-learning-first-order-algorithms/</loc>
+    <lastmod>2020-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/difan-zou/</loc>
     <lastmod>2020-09-14T22:44:08+08:00</lastmod>
   </url><url>
@@ -694,6 +724,9 @@
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/lixia/aaai20_sognet_scene_overlap_graph_network_for_panoptic_segmentation/</loc>
     <lastmod>2020-07-14T15:34:14+08:00</lastmod>
+  </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_siopt_-revisiting-extra-for-smooth-distributed-optimization/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/%E4%BF%A1%E7%A7%91%E5%AD%A6%E7%94%9F%E4%BC%9A-%E5%A4%A7%E4%BF%A1%E7%A7%91/</loc>
     <lastmod>2021-09-19T11:14:39+08:00</lastmod>
@@ -3147,6 +3180,7 @@
     <lastmod>2019-12-03T21:58:09+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/ainiwaerzikerula/</loc>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/baichenyan/</loc>
     <lastmod>2019-12-08T19:58:48+08:00</lastmod>
@@ -3289,6 +3323,8 @@
     <loc>https://ZERO-Lab-PKU.github.io/authors/nitianwei/</loc>
     <lastmod>2019-12-08T19:58:48+08:00</lastmod>
   </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/authors/qiuyeqing/</loc>
+  </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/shenli/</loc>
     <lastmod>2019-12-05T23:14:15+08:00</lastmod>
   </url><url>
@@ -3308,7 +3344,7 @@
     <lastmod>2023-10-24T15:21:17+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/wangyifei/</loc>
-    <lastmod>2023-10-04T16:24:57+08:00</lastmod>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/authors/wangyijia/</loc>
     <lastmod>2021-11-20T16:06:49+08:00</lastmod>
@@ -3407,6 +3443,7 @@
     <lastmod>2019-11-23T20:28:11+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/ainiwaerzikerula/</loc>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/baichenyan/</loc>
     <lastmod>2019-12-02T20:45:29+08:00</lastmod>
@@ -3546,6 +3583,8 @@
     <loc>https://ZERO-Lab-PKU.github.io/personwise/nitianwei/</loc>
     <lastmod>2019-12-08T19:58:48+08:00</lastmod>
   </url><url>
+    <loc>https://ZERO-Lab-PKU.github.io/personwise/qiuyeqing/</loc>
+  </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/shenli/</loc>
     <lastmod>2019-12-02T20:45:29+08:00</lastmod>
   </url><url>
@@ -3674,7 +3713,7 @@
     <lastmod>2021-09-19T11:14:39+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/personwise/</loc>
-    <lastmod>2023-10-24T15:21:17+08:00</lastmod>
+    <lastmod>2023-10-24T17:35:57+08:00</lastmod>
   </url><url>
     <loc>https://ZERO-Lab-PKU.github.io/publication/</loc>
     <lastmod>2019-11-25T22:54:03+08:00</lastmod>

@@ -5,7 +5,7 @@
     <link>https://ZERO-Lab-PKU.github.io/publication_types/2/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Restarted Nonconvex Accelerated Gradient Descent: No More Polylogarithmic Factor in the O(ε−7/4) Complexity</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2023_jmlr_restarted-nonconvex-accelerated-gradient-descent/</link>
+      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2023_jmlr_restarted-nonconvex-accelerated-gradient-descent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Training Much Deeper Spiking Neural Networks with a Small Number of Time-Steps</title>
       <link>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2022/nn22_training-much-deeper-spiking-neural-networks-with-a-small-number-of-time-steps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance Reduced EXTRA and DIGing and Their Optimal Acceleration for Strongly Convex Decentralized Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2022_jmlr_variance-reduced-extra-and-diging-and-their-optimal-acceleration-for-strongly-convex-decentralized-optimization/</guid>
       <description></description>
     </item>
     
@@ -49,6 +65,14 @@
       <link>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0800</pubDate>
       <guid>https://ZERO-Lab-PKU.github.io/publication/2020/jmlr20_on_the_complexity_analysis_of_the_primal_solutions_for_the_accelerated_randomized_dual_coordinate_ascent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting EXTRA for Smooth Distributed Optimization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_siopt_-revisiting-extra-for-smooth-distributed-optimization/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/lihuan2023/2020_siopt_-revisiting-extra-for-smooth-distributed-optimization/</guid>
       <description></description>
     </item>
     

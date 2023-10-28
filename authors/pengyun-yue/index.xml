@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengyun Yue | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/pengyun-yue/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/pengyun-yue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pengyun Yue</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Pengyun Yue</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/pengyun-yue/</link>
+    </image>
+    
+    <item>
+      <title>On the Lower Bound of Minimizing Polyak-Łojasiewicz Functions</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_on-the-lower-bound-of-minimizing-polyak-%C5%82ojasiewicz-functions/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_on-the-lower-bound-of-minimizing-polyak-%C5%82ojasiewicz-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeroth-order Optimization with Weak Dimension Dependency</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_zeroth-order-optimization-with-weak-dimension-dependency/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/colt23_zeroth-order-optimization-with-weak-dimension-dependency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
