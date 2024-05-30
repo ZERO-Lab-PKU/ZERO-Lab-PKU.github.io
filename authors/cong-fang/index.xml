@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/cong-fang/index.xml" rel="self" type="application/rss+xml" />
     <description>Cong Fang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Cong Fang</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/cong-fang/</link>
     </image>
+    
+    <item>
+      <title>Task-Robust Pre-Training for Worst-Case Downstream Adaptation</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Lower Bound of Minimizing Polyak-Łojasiewicz Functions</title>
