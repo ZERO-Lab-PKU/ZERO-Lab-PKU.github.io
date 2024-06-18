@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Pre-training has achieved remarkable success when transferred to downstream tasks. In machine learning, we care about not only the good performance of a model but also its behavior under reasonable shifts of condition. The same philosophy holds when pre-training a foundation model. However, the foundation model may not uniformly behave well for a series of related downstream tasks. This happens, for example, when conducting mask recovery regression where the recovery ability or the training instances diverge like pattern features are extracted dominantly on pre-training, but semantic features are also required on a downstream task. This paper considers pre-training a model that guarantees a uniformly good performance over the downstream tasks. We call this goal as downstream-task robustness. Our method first separates the upstream task into several representative ones and applies a simple minimax loss for pre-training. We then design an efficient algorithm to solve the minimax loss and prove its convergence in the convex setting. In the experiments, we show both on large-scale natural language processing and computer vision datasets our method increases the metrics on worse-case downstream tasks. Additionally, some theoretical explanations for why our loss is beneficial are provided. Specifically, we show fewer samples are inherently required for the most challenging downstream task in some cases. ">
+  <meta name="description" content="Convolutional neural networks benefit from translation equivariance, achieving tremendous success. Equivariant networks further extend this property to other transformation groups. However, most existing methods require discretization or sampling of groups, leading to increased model sizes for larger groups, such as the affine group. In this paper, we build affine equivariant networks based on differential invariants from the viewpoint of symmetric PDEs, without discretizing or sampling the group. To address the division-by-zero issue arising from fractional differential invariants of the affine group, we construct a new kind of affine invariants by normalizing polynomial relative differential invariants to replace classical differential invariants. For further flexibility, we design an equivariant layer, which can be directly integrated into convolutional networks of various architectures. Moreover, our framework for the affine group is also applicable to its continuous subgroups. We implement equivariant networks for the scale group, the rotation-scale group, and the affine group. Numerical experiments demonstrate the outstanding performance of our framework across classification tasks involving transformations of these groups. Remarkably, under the out-of-distribution setting, our model achieves a 3.37% improvement in accuracy over the main counterpart affConv on the affNIST dataset. ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/">
+  <link rel="alternate" hreflang="en-us" href="https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/">
 
   
 
@@ -136,28 +136,27 @@
   <link rel="icon" type="image/png" href="/img/logo-64.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/">
+  <link rel="canonical" href="https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="ZERO Lab">
-  <meta property="og:url" content="https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/">
-  <meta property="og:title" content="Task-Robust Pre-Training for Worst-Case Downstream Adaptation | ZERO Lab">
-  <meta property="og:description" content="Pre-training has achieved remarkable success when transferred to downstream tasks. In machine learning, we care about not only the good performance of a model but also its behavior under reasonable shifts of condition. The same philosophy holds when pre-training a foundation model. However, the foundation model may not uniformly behave well for a series of related downstream tasks. This happens, for example, when conducting mask recovery regression where the recovery ability or the training instances diverge like pattern features are extracted dominantly on pre-training, but semantic features are also required on a downstream task. This paper considers pre-training a model that guarantees a uniformly good performance over the downstream tasks. We call this goal as downstream-task robustness. Our method first separates the upstream task into several representative ones and applies a simple minimax loss for pre-training. We then design an efficient algorithm to solve the minimax loss and prove its convergence in the convex setting. In the experiments, we show both on large-scale natural language processing and computer vision datasets our method increases the metrics on worse-case downstream tasks. Additionally, some theoretical explanations for why our loss is beneficial are provided. Specifically, we show fewer samples are inherently required for the most challenging downstream task in some cases. "><meta property="og:image" content="https://ZERO-Lab-PKU.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://ZERO-Lab-PKU.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/">
+  <meta property="og:title" content="Affine Equivariant Networks Based on Differential Invariants | ZERO Lab">
+  <meta property="og:description" content="Convolutional neural networks benefit from translation equivariance, achieving tremendous success. Equivariant networks further extend this property to other transformation groups. However, most existing methods require discretization or sampling of groups, leading to increased model sizes for larger groups, such as the affine group. In this paper, we build affine equivariant networks based on differential invariants from the viewpoint of symmetric PDEs, without discretizing or sampling the group. To address the division-by-zero issue arising from fractional differential invariants of the affine group, we construct a new kind of affine invariants by normalizing polynomial relative differential invariants to replace classical differential invariants. For further flexibility, we design an equivariant layer, which can be directly integrated into convolutional networks of various architectures. Moreover, our framework for the affine group is also applicable to its continuous subgroups. We implement equivariant networks for the scale group, the rotation-scale group, and the affine group. Numerical experiments demonstrate the outstanding performance of our framework across classification tasks involving transformations of these groups. Remarkably, under the out-of-distribution setting, our model achieves a 3.37% improvement in accuracy over the main counterpart affConv on the affNIST dataset. "><meta property="og:image" content="https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/featured.png">
+  <meta property="twitter:image" content="https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2024-05-30T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2024-06-18T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2024-05-30T16:17:10&#43;08:00">
+    <meta property="article:modified_time" content="2024-03-06T00:00:00&#43;00:00">
   
 
   
@@ -181,16 +180,20 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/"
+    "@id": "https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/"
   },
-  "headline": "Task-Robust Pre-Training for Worst-Case Downstream Adaptation",
+  "headline": "Affine Equivariant Networks Based on Differential Invariants",
   
-  "datePublished": "2024-05-30T00:00:00Z",
-  "dateModified": "2024-05-30T16:17:10+08:00",
+  "image": [
+    "https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/featured.png"
+  ],
+  
+  "datePublished": "2024-06-18T00:00:00Z",
+  "dateModified": "2024-03-06T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Jianghui Wang"
+    "name": "Yikang Li"
   },
   
   "publisher": {
@@ -201,7 +204,7 @@
       "url": "https://ZERO-Lab-PKU.github.io/img/icon-512.png"
     }
   },
-  "description": "Pre-training has achieved remarkable success when transferred to downstream tasks. In machine learning, we care about not only the good performance of a model but also its behavior under reasonable shifts of condition. The same philosophy holds when pre-training a foundation model. However, the foundation model may not uniformly behave well for a series of related downstream tasks. This happens, for example, when conducting mask recovery regression where the recovery ability or the training instances diverge like pattern features are extracted dominantly on pre-training, but semantic features are also required on a downstream task. This paper considers pre-training a model that guarantees a uniformly good performance over the downstream tasks. We call this goal as downstream-task robustness. Our method first separates the upstream task into several representative ones and applies a simple minimax loss for pre-training. We then design an efficient algorithm to solve the minimax loss and prove its convergence in the convex setting. In the experiments, we show both on large-scale natural language processing and computer vision datasets our method increases the metrics on worse-case downstream tasks. Additionally, some theoretical explanations for why our loss is beneficial are provided. Specifically, we show fewer samples are inherently required for the most challenging downstream task in some cases. "
+  "description": "Convolutional neural networks benefit from translation equivariance, achieving tremendous success. Equivariant networks further extend this property to other transformation groups. However, most existing methods require discretization or sampling of groups, leading to increased model sizes for larger groups, such as the affine group. In this paper, we build affine equivariant networks based on differential invariants from the viewpoint of symmetric PDEs, without discretizing or sampling the group. To address the division-by-zero issue arising from fractional differential invariants of the affine group, we construct a new kind of affine invariants by normalizing polynomial relative differential invariants to replace classical differential invariants. For further flexibility, we design an equivariant layer, which can be directly integrated into convolutional networks of various architectures. Moreover, our framework for the affine group is also applicable to its continuous subgroups. We implement equivariant networks for the scale group, the rotation-scale group, and the affine group. Numerical experiments demonstrate the outstanding performance of our framework across classification tasks involving transformations of these groups. Remarkably, under the out-of-distribution setting, our model achieves a 3.37% improvement in accuracy over the main counterpart affConv on the affNIST dataset. "
 }
 </script>
 
@@ -219,7 +222,7 @@
 
 
 
-  <title>Task-Robust Pre-Training for Worst-Case Downstream Adaptation | ZERO Lab</title>
+  <title>Affine Equivariant Networks Based on Differential Invariants | ZERO Lab</title>
 
 </head>
 
@@ -448,18 +451,26 @@
 
 
 
-  
+
+
+
+
+
+
+
 
   
-  
-  
-<div class="article-container pt-3">
-  <h1>Task-Robust Pre-Training for Worst-Case Downstream Adaptation</h1>
-
-  
-
   
     
+  
+
+
+<div class="article-container pt-3">
+  <h1>Affine Equivariant Networks Based on Differential Invariants</h1>
+
+  
+
+  
 
 
 <div class="article-metadata">
@@ -478,19 +489,19 @@
     
     
     
-    <span>Jianghui Wang</span>
+    <span><a href="/personwise/liyikang/">Yikang Li</a></span>
     
     
     
-    , <span><a href="/personwise/chenyang/">Yang Chen</a></span>
+    , <span><a href="/personwise/qiuyeqing/">Yeqing Qiu</a></span>
     
     
     
-    , <span><a href="/personwise/xiexingyu/">Xingyu Xie</a></span>
+    , <span><a href="/personwise/chenyuxuan/">Yuxuan Chen</a></span>
     
     
     
-    , <span><a href="/personwise/fangcong/">Cong Fang</a></span>
+    , <span><a href="/personwise/helingshen/">Lingshen He</a></span>
     
     
     
@@ -506,7 +517,7 @@
     
       
     
-    September 2023
+    March 2024
   </span>
   
 
@@ -523,7 +534,7 @@
 
 </div>
 
-    
+  
 
 
 
@@ -554,7 +565,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2306.12070" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Affine_Equivariant_Networks_Based_on_Differential_Invariants_CVPR_2024_paper.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -577,7 +588,14 @@
 </div>
 
 
-  
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 215px;">
+  <div style="position: relative">
+    <img src="/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/featured_huabba65e96bf3767d12adabe9443ba56e_244429_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
 </div>
 
 
@@ -586,7 +604,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Pre-training has achieved remarkable success when transferred to downstream tasks. In machine learning, we care about not only the good performance of a model but also its behavior under reasonable shifts of condition. The same philosophy holds when pre-training a foundation model. However, the foundation model may not uniformly behave well for a series of related downstream tasks. This happens, for example, when conducting mask recovery regression where the recovery ability or the training instances diverge like pattern features are extracted dominantly on pre-training, but semantic features are also required on a downstream task. This paper considers pre-training a model that guarantees a uniformly good performance over the downstream tasks. We call this goal as downstream-task robustness. Our method first separates the upstream task into several representative ones and applies a simple minimax loss for pre-training. We then design an efficient algorithm to solve the minimax loss and prove its convergence in the convex setting. In the experiments, we show both on large-scale natural language processing and computer vision datasets our method increases the metrics on worse-case downstream tasks. Additionally, some theoretical explanations for why our loss is beneficial are provided. Specifically, we show fewer samples are inherently required for the most challenging downstream task in some cases.</p>
+    <p class="pub-abstract">Convolutional neural networks benefit from translation equivariance, achieving tremendous success. Equivariant networks further extend this property to other transformation groups. However, most existing methods require discretization or sampling of groups, leading to increased model sizes for larger groups, such as the affine group. In this paper, we build affine equivariant networks based on differential invariants from the viewpoint of symmetric PDEs, without discretizing or sampling the group. To address the division-by-zero issue arising from fractional differential invariants of the affine group, we construct a new kind of affine invariants by normalizing polynomial relative differential invariants to replace classical differential invariants. For further flexibility, we design an equivariant layer, which can be directly integrated into convolutional networks of various architectures. Moreover, our framework for the affine group is also applicable to its continuous subgroups. We implement equivariant networks for the scale group, the rotation-scale group, and the affine group. Numerical experiments demonstrate the outstanding performance of our framework across classification tasks involving transformations of these groups. Remarkably, under the out-of-distribution setting, our model achieves a 3.37% improvement in accuracy over the main counterpart affConv on the affNIST dataset.</p>
     
 
     
@@ -616,7 +634,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Conference on Neural Information Processing Systems</div>
+          <div class="col-12 col-md-9">The IEEE/CVF Conference on Computer Vision and Pattern Recognition</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -647,7 +665,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/&amp;text=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/&amp;text=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -660,7 +678,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/&amp;t=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/&amp;t=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -673,7 +691,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation&amp;body=https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants&amp;body=https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -686,7 +704,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/&amp;title=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/&amp;title=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -699,7 +717,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation%20https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants%20https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -712,7 +730,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://ZERO-Lab-PKU.github.io/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/&amp;title=Task-Robust%20Pre-Training%20for%20Worst-Case%20Downstream%20Adaptation" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/&amp;title=Affine%20Equivariant%20Networks%20Based%20on%20Differential%20Invariants" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -750,7 +768,7 @@
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/jianghui-wang/"></a></h5>
+      <h5 class="card-title"><a href="/authors/yikang-li/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -773,15 +791,8 @@
   
   
   <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/" rel="next">Affine Equivariant Networks Based on Differential Invariants</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
     <div class="meta-nav">Previous</div>
-    <a href="/publication/2023/iclr23_neural-epdos-spatially-adaptive-equivariant-partial-differential-operator-based-networks/" rel="prev">Neural ePDOs: Spatially Adaptive Equivariant Partial Differential Operator Based Networks</a>
+    <a href="/publication/2023/neurips23_task-robust-pre-training-for-worst-case-downstream-adaptation/" rel="prev">Task-Robust Pre-Training for Worst-Case Downstream Adaptation</a>
   </div>
   
 </div>

@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhouchen Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhouchen Lin</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
     </image>
+    
+    <item>
+      <title>Affine Equivariant Networks Based on Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2024/cvpr24_affine-equivariant-networks-based-on-differential-invariants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Task-Robust Pre-Training for Worst-Case Downstream Adaptation</title>
