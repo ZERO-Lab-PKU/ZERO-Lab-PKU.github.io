@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lexiang Hu | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/lexiang-hu/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/lexiang-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lexiang Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Lexiang Hu</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/lexiang-hu/</link>
+    </image>
+    
+    <item>
+      <title>Symmetry Discovery for Different Data Types</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/nn2025_symmetry-discovery-for-different-data-types/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/nn2025_symmetry-discovery-for-different-data-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Discovery of Nonlinear Symmetries from Dynamic Data</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_explicit-discovery-of-nonlinear-symmetries-from-dynamic-data/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_explicit-discovery-of-nonlinear-symmetries-from-dynamic-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

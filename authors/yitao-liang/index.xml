@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yitao Liang | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/yitao-liang/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yitao-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yitao Liang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Yitao Liang</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/yitao-liang/</link>
+    </image>
+    
+    <item>
+      <title>Low-Dimension-to-High-Dimension Generalization And Its Implications for Length Generalization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_ldhd/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_ldhd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

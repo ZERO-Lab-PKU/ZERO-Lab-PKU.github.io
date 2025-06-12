@@ -5,12 +5,44 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhouchen Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Zhouchen Lin</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/zhouchen-lin/</link>
     </image>
+    
+    <item>
+      <title>Symmetry Discovery for Different Data Types</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/nn2025_symmetry-discovery-for-different-data-types/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/nn2025_symmetry-discovery-for-different-data-types/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Discovery of Nonlinear Symmetries from Dynamic Data</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_explicit-discovery-of-nonlinear-symmetries-from-dynamic-data/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_explicit-discovery-of-nonlinear-symmetries-from-dynamic-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Dimension-to-High-Dimension Generalization And Its Implications for Length Generalization</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_ldhd/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/icml2025_ldhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affine Steerable Equivariant Layer for Canonicalization of Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/iclr2025_affine-steerable-equivariant-layer-for-canonicalization-of-neural-networks/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/iclr2025_affine-steerable-equivariant-layer-for-canonicalization-of-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Relational Learning in Pre-Trained Models: A Theory from Hypergraph Recovery Perspective</title>

@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/yeqing-qiu/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yeqing-qiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yeqing Qiu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Yeqing Qiu</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/yeqing-qiu/</link>
     </image>
+    
+    <item>
+      <title>Affine Steerable Equivariant Layer for Canonicalization of Neural Networks</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/iclr2025_affine-steerable-equivariant-layer-for-canonicalization-of-neural-networks/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/iclr2025_affine-steerable-equivariant-layer-for-canonicalization-of-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Affine Equivariant Networks Based on Differential Invariants</title>
