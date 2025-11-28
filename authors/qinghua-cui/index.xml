@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qinghua Cui | ZERO Lab</title>
+    <link>https://ZERO-Lab-PKU.github.io/authors/qinghua-cui/</link>
+      <atom:link href="https://ZERO-Lab-PKU.github.io/authors/qinghua-cui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qinghua Cui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
+      <title>Qinghua Cui</title>
+      <link>https://ZERO-Lab-PKU.github.io/authors/qinghua-cui/</link>
+    </image>
+    
+    <item>
+      <title>High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/jmlr2025_-high-rank-irreducible-cartesian-tensor-decomposition-and-bases-of-equivariant-spaces/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/jmlr2025_-high-rank-irreducible-cartesian-tensor-decomposition-and-bases-of-equivariant-spaces/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

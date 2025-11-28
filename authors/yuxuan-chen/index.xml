@@ -5,12 +5,20 @@
     <link>https://ZERO-Lab-PKU.github.io/authors/yuxuan-chen/</link>
       <atom:link href="https://ZERO-Lab-PKU.github.io/authors/yuxuan-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuxuan Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZERO-Lab-PKU.github.io/img/icon-192.png</url>
       <title>Yuxuan Chen</title>
       <link>https://ZERO-Lab-PKU.github.io/authors/yuxuan-chen/</link>
     </image>
+    
+    <item>
+      <title>Projective Equivariant Network via Second-order Fundamental Differential Invariants</title>
+      <link>https://ZERO-Lab-PKU.github.io/publication/2025/neurips2025_projective-equivariant-network-via-second-order-fundamental-differential-invariants/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZERO-Lab-PKU.github.io/publication/2025/neurips2025_projective-equivariant-network-via-second-order-fundamental-differential-invariants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Affine Steerable Equivariant Layer for Canonicalization of Neural Networks</title>
